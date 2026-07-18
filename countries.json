@@ -1694,5 +1694,1145 @@
 "Night Safari di Singapura adalah kebun binatang nokturnal pertama di dunia.",
 "Air terjun buatan dalam ruangan tertinggi di dunia terletak di Jewel Changi Airport."
      ]
-  }
+  },
+{
+"id": "NL",
+"name": "Belanda",
+"officialName": "Koninkrijk der Nederlanden",
+"flag": "🇳🇱",
+"capital": "Amsterdam",
+"continent": "Europe",
+"population": 17700000,
+"area": 41543,
+"populationDensity": 426,
+"currency": "Euro (EUR)",
+"language": "Dutch",
+"timezone": "UTC+1",
+"callingCode": "+31",
+"internetDomain": ".nl",
+"economy": {
+"gdp": 990000000000,
+"gdpPerCapita": 55900,
+"exports": "Machinery, Chemicals, Agricultural Products",
+"imports": "Machinery, Transport Equipment, Chemicals"
+},
+"health_education": {
+"hdi": 0.941,
+"lifeExpectancy": 81.4,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Willem-Alexander",
+"primeMinister": "Dick Schoof",
+"religion": "Non-religious (57%)"
+},
+"geography": {
+"largestCity": "Amsterdam",
+"highestMountain": "Vaalserberg (322 m)",
+"longestRiver": "Rhine (1,230 km)",
+"climate": "Temperate",
+"averageTemp": 10.5
+},
+"technology": {
+"internetUsers": 16500000,
+"internetSpeed": 108.0,
+"mobileUsers": 21000000
+},
+"military": {
+"activePersonnel": 41000,
+"defenseBudget": 15000000000
+},
+"funFacts": [
+"Sekitar sepertiga wilayah daratan Belanda berada di bawah permukaan laut.",
+"Belanda adalah pengekspor bunga terbesar di dunia, terutama bunga tulip.",
+"Jumlah sepeda di Belanda lebih banyak daripada jumlah penduduknya.",
+"Kincir angin bersejarah di Kinderdijk ditetapkan sebagai Situs Warisan Dunia UNESCO.",
+"Sistem polder di Belanda merupakan salah satu mahakarya teknik pengelolaan air terbaik di dunia."
+]
+},
+{
+"id": "SE",
+"name": "Swedia",
+"officialName": "Konungariket Sverige",
+"flag": "🇸🇪",
+"capital": "Stockholm",
+"continent": "Europe",
+"population": 10520000,
+"area": 450295,
+"populationDensity": 25,
+"currency": "Swedish Krona (SEK)",
+"language": "Swedish",
+"timezone": "UTC+1",
+"callingCode": "+46",
+"internetDomain": ".se",
+"economy": {
+"gdp": 585000000000,
+"gdpPerCapita": 55600,
+"exports": "Machinery, Motor Vehicles, Paper Products",
+"imports": "Machinery, Petroleum, Chemicals"
+},
+"health_education": {
+"hdi": 0.947,
+"lifeExpectancy": 83.0,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Carl XVI Gustaf",
+"primeMinister": "Ulf Kristersson",
+"religion": "Christianity (55%)"
+},
+"geography": {
+"largestCity": "Stockholm",
+"highestMountain": "Kebnekaise (2,097 m)",
+"longestRiver": "Klarälven (460 km)",
+"climate": "Temperate to Subarctic",
+"averageTemp": 5.5
+},
+"technology": {
+"internetUsers": 9800000,
+"internetSpeed": 115.0,
+"mobileUsers": 14500000
+},
+"military": {
+"activePersonnel": 24000,
+"defenseBudget": 8000000000
+},
+"funFacts": [
+"Swedia adalah negara asal perusahaan furnitur multinasional ternama, IKEA.",
+"Penghargaan Nobel dibagikan setiap tahun di Stockholm, kecuali untuk kategori Nobel Perdamaian.",
+"Lebih dari dua pertiga daratan Swedia tertutup oleh hutan lebat.",
+"Hotel es (Icehotel) pertama dan terbesar di dunia berlokasi di Jukkasjärvi, Swedia.",
+"Memiliki lebih dari 260.000 pulau, menjadikannya negara dengan pulau terbanyak di dunia."
+]
+},
+{
+"id": "NZ",
+"name": "Selandia Baru",
+"officialName": "New Zealand",
+"flag": "🇳🇿",
+"capital": "Wellington",
+"continent": "Oceania",
+"population": 5120000,
+"area": 268021,
+"populationDensity": 19,
+"currency": "New Zealand Dollar (NZD)",
+"language": "English, Maori",
+"timezone": "UTC+12",
+"callingCode": "+64",
+"internetDomain": ".nz",
+"economy": {
+"gdp": 247000000000,
+"gdpPerCapita": 48300,
+"exports": "Dairy Products, Meat, Wood",
+"imports": "Vehicles, Machinery, Petroleum"
+},
+"health_education": {
+"hdi": 0.937,
+"lifeExpectancy": 82.3,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Charles III",
+"primeMinister": "Christopher Luxon",
+"religion": "Non-religious (48%)"
+},
+"geography": {
+"largestCity": "Auckland",
+"highestMountain": "Mount Cook (3,724 m)",
+"longestRiver": "Waikato River (425 km)",
+"climate": "Temperate",
+"averageTemp": 12.0
+},
+"technology": {
+"internetUsers": 4800000,
+"internetSpeed": 100.0,
+"mobileUsers": 6500000
+},
+"military": {
+"activePersonnel": 9000,
+"defenseBudget": 2800000000
+},
+"funFacts": [
+"Selandia Baru adalah negara mandiri pertama yang memberikan hak pilih kepada perempuan pada tahun 1893.",
+"Seluruh proses syuting trilogi film layar lebar The Lord of the Rings dilakukan di Selandia Baru.",
+"Burung Kiwi yang menjadi simbol nasional negara ini adalah spesies endemik yang tidak bisa terbang.",
+"Populasi domba di Selandia Baru jauh lebih banyak dibandingkan dengan populasi manusianya.",
+"Memiliki salah satu nama tempat terpanjang di dunia, yaitu bukit Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu."
+]
+},
+{
+"id": "AE",
+"name": "Uni Emirat Arab",
+"officialName": "Dawlat al-Imārāt al-'Arabīyah al-Muttaḥidah",
+"flag": "🇦🇪",
+"capital": "Abu Dhabi",
+"continent": "Asia",
+"population": 9441129,
+"area": 83600,
+"populationDensity": 114,
+"currency": "UAE Dirham (AED)",
+"language": "Arabic",
+"timezone": "UTC+4",
+"callingCode": "+971",
+"internetDomain": ".ae",
+"economy": {
+"gdp": 509000000000,
+"gdpPerCapita": 53900,
+"exports": "Crude Petroleum, Refined Petroleum, Gold",
+"imports": "Gold, Broadcasting Equipment, Cars"
+},
+"health_education": {
+"hdi": 0.911,
+"lifeExpectancy": 78.0,
+"literacy": 97.6
+},
+"government": {
+"type": "Federal Islamic Elective Monarchy",
+"president": "Mohamed bin Zayed Al Nahyan",
+"primeMinister": "Mohammed bin Rashid Al Maktoum",
+"religion": "Islam (76%)"
+},
+"geography": {
+"largestCity": "Dubai",
+"highestMountain": "Jebel Jais (1,934 m)",
+"longestRiver": "-",
+"climate": "Desert",
+"averageTemp": 27.5
+},
+"technology": {
+"internetUsers": 9300000,
+"internetSpeed": 238.0,
+"mobileUsers": 18000000
+},
+"military": {
+"activePersonnel": 65000,
+"defenseBudget": 23000000000
+},
+"funFacts": [
+"Gedung tertinggi di dunia, Burj Khalifa, terletak di Dubai.",
+"Memiliki pulau buatan berbentuk pohon palem yang sangat ikonik, Palm Jumeirah.",
+"Kepolisian Dubai dikenal di seluruh dunia karena menggunakan mobil-mobil super mewah seperti Bugatti, Ferrari, dan Lamborghini sebagai kendaraan patroli."
+]
+},
+{
+"id": "CL",
+"name": "Chili",
+"officialName": "República de Chile",
+"flag": "🇨🇱",
+"capital": "Santiago",
+"continent": "South America",
+"population": 19629590,
+"area": 756102,
+"populationDensity": 26,
+"currency": "Chilean Peso (CLP)",
+"language": "Spanish",
+"timezone": "UTC-5 to UTC-3",
+"callingCode": "+56",
+"internetDomain": ".cl",
+"economy": {
+"gdp": 317000000000,
+"gdpPerCapita": 16100,
+"exports": "Copper Ore, Refined Copper, Fish Fillets",
+"imports": "Refined Petroleum, Cars, Broadcasting Equipment"
+},
+"health_education": {
+"hdi": 0.855,
+"lifeExpectancy": 80.2,
+"literacy": 96.4
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Gabriel Boric",
+"primeMinister": "-",
+"religion": "Christianity (70%)"
+},
+"geography": {
+"largestCity": "Santiago",
+"highestMountain": "Ojos del Salado (6,893 m)",
+"longestRiver": "Loa (440 km)",
+"climate": "Varied",
+"averageTemp": 13.0
+},
+"technology": {
+"internetUsers": 17500000,
+"internetSpeed": 215.0,
+"mobileUsers": 26000000
+},
+"military": {
+"activePersonnel": 77000,
+"defenseBudget": 4600000000
+},
+"funFacts": [
+"Chili adalah negara terpanjang dan tersempit secara geografis di dunia.",
+"Gurun Atacama di Chili utara adalah gurun terkering di dunia selain di benua Antartika.",
+"Rumah bagi Pulau Paskah (Rapa Nui) yang terkenal dengan patung-patung Moai raksasa yang misterius."
+]
+},
+{
+"id": "GR",
+"name": "Yunani",
+"officialName": "Hellenic Republic",
+"flag": "🇬🇷",
+"capital": "Athens",
+"continent": "Europe",
+"population": 10423054,
+"area": 131957,
+"populationDensity": 79,
+"currency": "Euro (EUR)",
+"language": "Greek",
+"timezone": "UTC+2",
+"callingCode": "+30",
+"internetDomain": ".gr",
+"economy": {
+"gdp": 218000000000,
+"gdpPerCapita": 20900,
+"exports": "Refined Petroleum, Packaged Medicaments, Aluminum Plating",
+"imports": "Crude Petroleum, Refined Petroleum, Passenger and Cargo Ships"
+},
+"health_education": {
+"hdi": 0.887,
+"lifeExpectancy": 81.3,
+"literacy": 97.9
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Katerina Sakellaropoulou",
+"primeMinister": "Kyriakos Mitsotakis",
+"religion": "Christianity (90%)"
+},
+"geography": {
+"largestCity": "Athens",
+"highestMountain": "Mount Olympus (2,917 m)",
+"longestRiver": "Haliacmon (297 km)",
+"climate": "Mediterranean",
+"averageTemp": 15.4
+},
+"technology": {
+"internetUsers": 8300000,
+"internetSpeed": 45.0,
+"mobileUsers": 12000000
+},
+"military": {
+"activePersonnel": 130000,
+"defenseBudget": 8000000000
+},
+"funFacts": [
+"Dianggap secara luas sebagai tempat kelahiran demokrasi, filsafat Barat, dan Olimpiade.",
+"Memiliki ribuan pulau, dengan sekitar 227 di antaranya yang berpenghuni.",
+"Gunung Olympus dipercaya sebagai tempat tinggal para dewa utama dalam mitologi Yunani kuno."
+]
+},
+{
+"id": "NO",
+"name": "Norwegia",
+"officialName": "Kongeriket Norge",
+"flag": "🇳🇴",
+"capital": "Oslo",
+"continent": "Europe",
+"population": 5421241,
+"area": 385207,
+"populationDensity": 14,
+"currency": "Norwegian Krone (NOK)",
+"language": "Norwegian",
+"timezone": "UTC+1",
+"callingCode": "+47",
+"internetDomain": ".no",
+"economy": {
+"gdp": 482000000000,
+"gdpPerCapita": 89200,
+"exports": "Crude Petroleum, Petroleum Gas, Fish",
+"imports": "Cars, Broadcasting Equipment, Computers"
+},
+"health_education": {
+"hdi": 0.961,
+"lifeExpectancy": 83.2,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Harald V",
+"primeMinister": "Jonas Gahr Støre",
+"religion": "Christianity (68%)"
+},
+"geography": {
+"largestCity": "Oslo",
+"highestMountain": "Galdhøpiggen (2,469 m)",
+"longestRiver": "Glomma (621 km)",
+"climate": "Temperate to Subarctic",
+"averageTemp": 1.5
+},
+"technology": {
+"internetUsers": 5300000,
+"internetSpeed": 110.0,
+"mobileUsers": 5800000
+},
+"military": {
+"activePersonnel": 23000,
+"defenseBudget": 7300000000
+},
+"funFacts": [
+"Memiliki salah satu garis pantai terpanjang di dunia berkat fyord-fyordnya yang sangat banyak dan indah.",
+"Penghargaan Nobel Perdamaian diberikan setiap tahun di balai kota Oslo, Norwegia.",
+"Norwegia adalah salah satu pengekspor ikan salmon terbesar di dunia."
+]
+},
+{
+"id": "PT",
+"name": "Portugal",
+"officialName": "República Portuguesa",
+"flag": "🇵🇹",
+"capital": "Lisbon",
+"continent": "Europe",
+"population": 10329506,
+"area": 92212,
+"populationDensity": 112,
+"currency": "Euro (EUR)",
+"language": "Portuguese",
+"timezone": "UTC+0",
+"callingCode": "+351",
+"internetDomain": ".pt",
+"economy": {
+"gdp": 251000000000,
+"gdpPerCapita": 24300,
+"exports": "Cars, Vehicle Parts, Knit T-shirts",
+"imports": "Crude Petroleum, Cars, Packaged Medicaments"
+},
+"health_education": {
+"hdi": 0.866,
+"lifeExpectancy": 81.1,
+"literacy": 99.4
+},
+"government": {
+"type": "Unitary Semi-Presidential Republic",
+"president": "Marcelo Rebelo de Sousa",
+"primeMinister": "Luís Montenegro",
+"religion": "Christianity (80%)"
+},
+"geography": {
+"largestCity": "Lisbon",
+"highestMountain": "Mount Pico (2,351 m)",
+"longestRiver": "Tagus (1,007 km)",
+"climate": "Mediterranean",
+"averageTemp": 16.5
+},
+"technology": {
+"internetUsers": 8500000,
+"internetSpeed": 95.0,
+"mobileUsers": 12000000
+},
+"military": {
+"activePersonnel": 27000,
+"defenseBudget": 3300000000
+},
+"funFacts": [
+"Salah satu negara bangsa tertua di Eropa yang batas-batasnya hampir tidak berubah sejak abad ke-12.",
+"Penghasil gabus (cork) terbesar di dunia, memproduksi sekitar setengah pasokan gabus global.",
+"Aliansi antara Portugal dan Inggris (Treaty of Windsor pada tahun 1386) adalah aliansi diplomatik tertua di dunia yang masih berlaku hingga saat ini."
+]
+},
+{
+"id": "PE",
+"name": "Peru",
+"officialName": "República del Perú",
+"flag": "🇵🇪",
+"capital": "Lima",
+"continent": "South America",
+"population": 34049588,
+"area": 1285216,
+"populationDensity": 26,
+"currency": "Peruvian Sol (PEN)",
+"language": "Spanish",
+"timezone": "UTC-5",
+"callingCode": "+51",
+"internetDomain": ".pe",
+"economy": {
+"gdp": 225000000000,
+"gdpPerCapita": 6600,
+"exports": "Copper Ore, Gold, Refined Copper",
+"imports": "Refined Petroleum, Broadcasting Equipment, Cars"
+},
+"health_education": {
+"hdi": 0.762,
+"lifeExpectancy": 76.7,
+"literacy": 94.5
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Dina Boluarte",
+"primeMinister": "Gustavo Adrianzén",
+"religion": "Christianity (76%)"
+},
+"geography": {
+"largestCity": "Lima",
+"highestMountain": "Huascarán (6,768 m)",
+"longestRiver": "Ucayali (2,738 km)",
+"climate": "Varied",
+"averageTemp": 19.5
+},
+"technology": {
+"internetUsers": 24000000,
+"internetSpeed": 45.0,
+"mobileUsers": 39000000
+},
+"military": {
+"activePersonnel": 81000,
+"defenseBudget": 2500000000
+},
+"funFacts": [
+"Rumah bagi Machu Picchu, salah satu dari Tujuh Keajaiban Dunia Baru yang merupakan peninggalan suku Inca.",
+"Sungai Amazon, sungai terbesar di dunia, berhulu di Pegunungan Andes yang berada di wilayah Peru.",
+"Terdapat lebih dari 3.000 varietas kentang yang ditanam dan dapat ditemukan secara lokal di Peru."
+]
+},
+{
+"id": "CO",
+"name": "Kolombia",
+"officialName": "República de Colombia",
+"flag": "🇨🇴",
+"capital": "Bogotá",
+"continent": "South America",
+"population": 52085168,
+"area": 1141748,
+"populationDensity": 46,
+"currency": "Colombian Peso (COP)",
+"language": "Spanish",
+"timezone": "UTC-5",
+"callingCode": "+57",
+"internetDomain": ".co",
+"economy": {
+"gdp": 343000000000,
+"gdpPerCapita": 6600,
+"exports": "Crude Petroleum, Coal, Coffee",
+"imports": "Refined Petroleum, Broadcasting Equipment, Cars"
+},
+"health_education": {
+"hdi": 0.752,
+"lifeExpectancy": 77.3,
+"literacy": 95.1
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Gustavo Petro",
+"primeMinister": "-",
+"religion": "Christianity (88%)"
+},
+"geography": {
+"largestCity": "Bogotá",
+"highestMountain": "Pico Cristóbal Colón (5,700 m)",
+"longestRiver": "Magdalena (1,528 km)",
+"climate": "Tropical",
+"averageTemp": 24.0
+},
+"technology": {
+"internetUsers": 35000000,
+"internetSpeed": 45.0,
+"mobileUsers": 60000000
+},
+"military": {
+"activePersonnel": 295000,
+"defenseBudget": 10000000000
+},
+"funFacts": [
+"Kolombia adalah produsen zamrud terbesar di dunia.",
+"Satu-satunya negara di Amerika Selatan yang memiliki garis pantai di Samudra Pasifik dan Laut Karibia.",
+"Namanya diambil dari penjelajah terkenal, Christopher Columbus."
+]
+},
+{
+"id": "IE",
+"name": "Irlandia",
+"officialName": "Republic of Ireland",
+"flag": "🇮🇪",
+"capital": "Dublin",
+"continent": "Europe",
+"population": 5123536,
+"area": 70273,
+"populationDensity": 73,
+"currency": "Euro (EUR)",
+"language": "Irish, English",
+"timezone": "UTC+0",
+"callingCode": "+353",
+"internetDomain": ".ie",
+"economy": {
+"gdp": 529000000000,
+"gdpPerCapita": 104000,
+"exports": "Blood, Antisera, Packaged Medicaments",
+"imports": "Planes, Helicopters, Computers"
+},
+"health_education": {
+"hdi": 0.945,
+"lifeExpectancy": 82.3,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Michael D. Higgins",
+"primeMinister": "Simon Harris",
+"religion": "Christianity (76%)"
+},
+"geography": {
+"largestCity": "Dublin",
+"highestMountain": "Carrauntoohil (1,038 m)",
+"longestRiver": "River Shannon (360 km)",
+"climate": "Temperate",
+"averageTemp": 9.8
+},
+"technology": {
+"internetUsers": 4500000,
+"internetSpeed": 85.0,
+"mobileUsers": 5300000
+},
+"military": {
+"activePersonnel": 8500,
+"defenseBudget": 1200000000
+},
+"funFacts": [
+"Dikenal sebagai 'Emerald Isle' karena lanskapnya yang sangat hijau.",
+"Halloween memiliki akar dari festival Celtic kuno bernama Samhain yang berasal dari Irlandia.",
+"Simbol nasionalnya adalah harpa, menjadikannya satu-satunya negara di dunia dengan alat musik sebagai simbol nasional."
+]
+},
+{
+"id": "KE",
+"name": "Kenya",
+"officialName": "Republic of Kenya",
+"flag": "🇰🇪",
+"capital": "Nairobi",
+"continent": "Africa",
+"population": 54027487,
+"area": 580367,
+"populationDensity": 94,
+"currency": "Kenyan Shilling (KES)",
+"language": "Swahili, English",
+"timezone": "UTC+3",
+"callingCode": "+254",
+"internetDomain": ".ke",
+"economy": {
+"gdp": 113000000000,
+"gdpPerCapita": 2000,
+"exports": "Tea, Cut Flowers, Refined Petroleum",
+"imports": "Refined Petroleum, Palm Oil, Cars"
+},
+"health_education": {
+"hdi": 0.601,
+"lifeExpectancy": 66.0,
+"literacy": 81.5
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "William Ruto",
+"primeMinister": "-",
+"religion": "Christianity (85.5%)"
+},
+"geography": {
+"largestCity": "Nairobi",
+"highestMountain": "Mount Kenya (5,199 m)",
+"longestRiver": "Tana River (1,000 km)",
+"climate": "Tropical",
+"averageTemp": 22.5
+},
+"technology": {
+"internetUsers": 23000000,
+"internetSpeed": 20.0,
+"mobileUsers": 40000000
+},
+"military": {
+"activePersonnel": 24000,
+"defenseBudget": 1100000000
+},
+"funFacts": [
+"Kenya adalah salah satu produsen dan pengekspor teh hitam terbesar di dunia.",
+"Memiliki sistem pembayaran seluler M-Pesa yang merupakan salah satu yang paling sukses di dunia.",
+"Nairobi adalah satu-satunya ibu kota di dunia yang memiliki taman nasional satwa liar di dalam batas kotanya."
+]
+},
+{
+"id": "MA",
+"name": "Maroko",
+"officialName": "Kingdom of Morocco",
+"flag": "🇲🇦",
+"capital": "Rabat",
+"continent": "Africa",
+"population": 37457971,
+"area": 710850,
+"populationDensity": 53,
+"currency": "Moroccan Dirham (MAD)",
+"language": "Arabic, Berber",
+"timezone": "UTC+1",
+"callingCode": "+212",
+"internetDomain": ".ma",
+"economy": {
+"gdp": 142000000000,
+"gdpPerCapita": 3795,
+"exports": "Fertilizers, Cars, Insulated Wire",
+"imports": "Refined Petroleum, Cars, Wheat"
+},
+"health_education": {
+"hdi": 0.683,
+"lifeExpectancy": 74.0,
+"literacy": 73.8
+},
+"government": {
+"type": "Unitary Parliamentary Semi-Constitutional Monarchy",
+"president": "King Mohammed VI",
+"primeMinister": "Aziz Akhannouch",
+"religion": "Islam (99%)"
+},
+"geography": {
+"largestCity": "Casablanca",
+"highestMountain": "Toubkal (4,167 m)",
+"longestRiver": "Draa River (1,100 km)",
+"climate": "Mediterranean",
+"averageTemp": 17.5
+},
+"technology": {
+"internetUsers": 31000000,
+"internetSpeed": 25.0,
+"mobileUsers": 49000000
+},
+"military": {
+"activePersonnel": 310000,
+"defenseBudget": 5000000000
+},
+"funFacts": [
+"Memiliki universitas tertua di dunia yang masih beroperasi, yaitu Universitas Al Quaraouiyine.",
+"Maroko adalah pengekspor fosfat terbesar di dunia.",
+"Film klasik terkenal 'Casablanca' mengambil nama dari kota terbesar di negara ini."
+]
+},
+{
+"id": "PL",
+"name": "Polandia",
+"officialName": "Republic of Poland",
+"flag": "🇵🇱",
+"capital": "Warsaw",
+"continent": "Europe",
+"population": 37840000,
+"area": 312696,
+"populationDensity": 121,
+"currency": "Polish Zloty (PLN)",
+"language": "Polish",
+"timezone": "UTC+1",
+"callingCode": "+48",
+"internetDomain": ".pl",
+"economy": {
+"gdp": 688000000000,
+"gdpPerCapita": 18183,
+"exports": "Vehicle Parts, Cars, Seats",
+"imports": "Cars, Crude Petroleum, Vehicle Parts"
+},
+"health_education": {
+"hdi": 0.876,
+"lifeExpectancy": 78.3,
+"literacy": 99.8
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Andrzej Duda",
+"primeMinister": "Donald Tusk",
+"religion": "Christianity (87%)"
+},
+"geography": {
+"largestCity": "Warsaw",
+"highestMountain": "Rysy (2,499 m)",
+"longestRiver": "Vistula (1,047 km)",
+"climate": "Temperate",
+"averageTemp": 8.5
+},
+"technology": {
+"internetUsers": 32000000,
+"internetSpeed": 85.0,
+"mobileUsers": 51000000
+},
+"military": {
+"activePersonnel": 120000,
+"defenseBudget": 15000000000
+},
+"funFacts": [
+"Membanggakan 17 Situs Warisan Dunia UNESCO, termasuk kota tua Krakow.",
+"Ilmuwan terkenal Marie Curie lahir di Warsawa, Polandia.",
+"Memiliki kastil batu bata terbesar di dunia, yaitu Kastil Malbork."
+]
+},
+{
+"id": "AT",
+"name": "Austria",
+"officialName": "Republic of Austria",
+"flag": "🇦🇹",
+"capital": "Vienna",
+"continent": "Europe",
+"population": 9104772,
+"area": 83871,
+"populationDensity": 109,
+"currency": "Euro (EUR)",
+"language": "German",
+"timezone": "UTC+1",
+"callingCode": "+43",
+"internetDomain": ".at",
+"economy": {
+"gdp": 471000000000,
+"gdpPerCapita": 52100,
+"exports": "Packaged Medicaments, Cars, Vehicle Parts",
+"imports": "Cars, Refined Petroleum, Packaged Medicaments"
+},
+"health_education": {
+"hdi": 0.916,
+"lifeExpectancy": 81.5,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Parliamentary Republic",
+"president": "Alexander Van der Bellen",
+"primeMinister": "Karl Nehammer",
+"religion": "Christianity (68%)"
+},
+"geography": {
+"largestCity": "Vienna",
+"highestMountain": "Grossglockner (3,798 m)",
+"longestRiver": "Danube (2,850 km)",
+"climate": "Temperate to Alpine",
+"averageTemp": 6.5
+},
+"technology": {
+"internetUsers": 8100000,
+"internetSpeed": 75.0,
+"mobileUsers": 11000000
+},
+"military": {
+"activePersonnel": 22000,
+"defenseBudget": 3500000000
+},
+"funFacts": [
+"Vienna sering dinobatkan sebagai kota paling layak huni di dunia.",
+"Komposer musik klasik terkenal seperti Mozart, Haydn, dan Schubert berasal dari Austria.",
+"Bendera Austria adalah salah satu bendera nasional tertua di dunia yang masih digunakan."
+]
+},
+{
+"id": "BE",
+"name": "Belgia",
+"officialName": "Kingdom of Belgium",
+"flag": "🇧🇪",
+"capital": "Brussels",
+"continent": "Europe",
+"population": 11697557,
+"area": 30528,
+"populationDensity": 383,
+"currency": "Euro (EUR)",
+"language": "Dutch, French, German",
+"timezone": "UTC+1",
+"callingCode": "+32",
+"internetDomain": ".be",
+"economy": {
+"gdp": 578000000000,
+"gdpPerCapita": 49500,
+"exports": "Cars, Packaged Medicaments, Vaccines",
+"imports": "Cars, Packaged Medicaments, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.937,
+"lifeExpectancy": 81.6,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Parliamentary Constitutional Monarchy",
+"president": "King Philippe",
+"primeMinister": "Alexander De Croo",
+"religion": "Christianity (50%)"
+},
+"geography": {
+"largestCity": "Brussels",
+"highestMountain": "Signal de Botrange (694 m)",
+"longestRiver": "Meuse (925 km)",
+"climate": "Temperate",
+"averageTemp": 9.8
+},
+"technology": {
+"internetUsers": 10800000,
+"internetSpeed": 95.0,
+"mobileUsers": 11500000
+},
+"military": {
+"activePersonnel": 26000,
+"defenseBudget": 4500000000
+},
+"funFacts": [
+"Belgia memegang rekor waktu terlama untuk membentuk pemerintahan demokratis di masa damai, yaitu 541 hari.",
+"Menghasilkan lebih dari 220.000 ton cokelat berkualitas tinggi setiap tahunnya.",
+"Merupakan tempat kelahiran pahlawan buku komik terkenal dunia, Tintin dan The Smurfs."
+]
+},
+{
+"id": "FI",
+"name": "Finlandia",
+"officialName": "Republic of Finland",
+"flag": "🇫🇮",
+"capital": "Helsinki",
+"continent": "Europe",
+"population": 5540720,
+"area": 338424,
+"populationDensity": 16,
+"currency": "Euro (EUR)",
+"language": "Finnish, Swedish",
+"timezone": "UTC+2",
+"callingCode": "+358",
+"internetDomain": ".fi",
+"economy": {
+"gdp": 297000000000,
+"gdpPerCapita": 53500,
+"exports": "Paper, Refined Petroleum, Cars",
+"imports": "Crude Petroleum, Cars, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.940,
+"lifeExpectancy": 82.0,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Alexander Stubb",
+"primeMinister": "Petteri Orpo",
+"religion": "Christianity (66%)"
+},
+"geography": {
+"largestCity": "Helsinki",
+"highestMountain": "Halti (1324 m)",
+"longestRiver": "Kemijoki (550 km)",
+"climate": "Boreal",
+"averageTemp": 1.5
+},
+"technology": {
+"internetUsers": 5300000,
+"internetSpeed": 90.0,
+"mobileUsers": 7200000
+},
+"military": {
+"activePersonnel": 24000,
+"defenseBudget": 6000000000
+},
+"funFacts": [
+"Finlandia secara konsisten dinobatkan sebagai negara paling bahagia di dunia selama beberapa tahun berturut-turut.",
+"Memiliki lebih dari 3 juta sauna, jumlah yang cukup untuk menampung seluruh penduduknya secara bersamaan.",
+"Terdapat sekitar 187.888 danau di dalam wilayahnya, menjadikannya dikenal sebagai 'Negeri Ribuan Danau'."
+]
+},
+{
+"id": "HU",
+"name": "Hungaria",
+"officialName": "Hungary",
+"flag": "🇭🇺",
+"capital": "Budapest",
+"continent": "Europe",
+"population": 9730000,
+"area": 93028,
+"populationDensity": 105,
+"currency": "Hungarian Forint (HUF)",
+"language": "Hungarian",
+"timezone": "UTC+1",
+"callingCode": "+36",
+"internetDomain": ".hu",
+"economy": {
+"gdp": 180000000000,
+"gdpPerCapita": 18500,
+"exports": "Cars, Vehicle Parts, Packaged Medicaments",
+"imports": "Cars, Vehicle Parts, Packaged Medicaments"
+},
+"health_education": {
+"hdi": 0.846,
+"lifeExpectancy": 75.8,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Tamás Sulyok",
+"primeMinister": "Viktor Orbán",
+"religion": "Christianity (52%)"
+},
+"geography": {
+"largestCity": "Budapest",
+"highestMountain": "Kékes (1014 m)",
+"longestRiver": "Danube (2850 km)",
+"climate": "Continental",
+"averageTemp": 9.7
+},
+"technology": {
+"internetUsers": 8900000,
+"internetSpeed": 100.0,
+"mobileUsers": 11000000
+},
+"military": {
+"activePersonnel": 39000,
+"defenseBudget": 2500000000
+},
+"funFacts": [
+"Penemu teka-teki terkenal Rubik's Cube, Ernő Rubik, berasal dari Hungaria.",
+"Gedung Parlemen Hungaria di Budapest adalah salah satu gedung parlemen terbesar di dunia.",
+"Danau Balaton di Hungaria adalah danau terbesar di kawasan Eropa Tengah."
+]
+},
+{
+"id": "CZ",
+"name": "Republik Ceko",
+"officialName": "Czech Republic",
+"flag": "🇨🇿",
+"capital": "Prague",
+"continent": "Europe",
+"population": 10500000,
+"area": 78871,
+"populationDensity": 133,
+"currency": "Czech Koruna (CZK)",
+"language": "Czech",
+"timezone": "UTC+1",
+"callingCode": "+420",
+"internetDomain": ".cz",
+"economy": {
+"gdp": 330000000000,
+"gdpPerCapita": 31000,
+"exports": "Cars, Vehicle Parts, Computers",
+"imports": "Vehicle Parts, Cars, Broadcasting Equipment"
+},
+"health_education": {
+"hdi": 0.889,
+"lifeExpectancy": 77.3,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Petr Pavel",
+"primeMinister": "Petr Fiala",
+"religion": "Non-religious (48%)"
+},
+"geography": {
+"largestCity": "Prague",
+"highestMountain": "Sněžka (1603 m)",
+"longestRiver": "Vltava (430 km)",
+"climate": "Temperate",
+"averageTemp": 9.0
+},
+"technology": {
+"internetUsers": 8800000,
+"internetSpeed": 85.0,
+"mobileUsers": 12500000
+},
+"military": {
+"activePersonnel": 28000,
+"defenseBudget": 4000000000
+},
+"funFacts": [
+"Terkenal dengan konsumsi bir per kapita tertinggi di dunia.",
+"Memiliki kastil kuno terbanyak di Eropa.",
+"Penemu lensa kontak lunak berasal dari Republik Ceko."
+]
+},
+{
+"id": "RO",
+"name": "Rumania",
+"officialName": "Romania",
+"flag": "🇷🇴",
+"capital": "Bucharest",
+"continent": "Europe",
+"population": 19000000,
+"area": 238397,
+"populationDensity": 80,
+"currency": "Romanian Leu (RON)",
+"language": "Romanian",
+"timezone": "UTC+2",
+"callingCode": "+40",
+"internetDomain": ".ro",
+"economy": {
+"gdp": 300000000000,
+"gdpPerCapita": 15800,
+"exports": "Cars, Vehicle Parts, Insulated Wire",
+"imports": "Vehicle Parts, Cars, Packaged Medicaments"
+},
+"health_education": {
+"hdi": 0.821,
+"lifeExpectancy": 72.8,
+"literacy": 98.8
+},
+"government": {
+"type": "Unitary Semi-Presidential Republic",
+"president": "Klaus Iohannis",
+"primeMinister": "Marcel Ciolacu",
+"religion": "Christianity (82%)"
+},
+"geography": {
+"largestCity": "Bucharest",
+"highestMountain": "Moldoveanu (2544 m)",
+"longestRiver": "Danube (2850 km)",
+"climate": "Temperate",
+"averageTemp": 10.5
+},
+"technology": {
+"internetUsers": 15000000,
+"internetSpeed": 130.0,
+"mobileUsers": 22000000
+},
+"military": {
+"activePersonnel": 71000,
+"defenseBudget": 6000000000
+},
+"funFacts": [
+"Kastil Bran di Transylvania sering dikaitkan dengan legenda fiksi Drakula.",
+"Gedung Parlemen di Bucharest adalah gedung administrasi sipil terbesar kedua di dunia setelah Pentagon.",
+"Memiliki salah satu jalan pegunungan paling spektakuler di dunia, yaitu Transfăgărășan."
+]
+},
+{
+"id": "IS",
+"name": "Islandia",
+"officialName": "Iceland",
+"flag": "🇮🇸",
+"capital": "Reykjavik",
+"continent": "Europe",
+"population": 376000,
+"area": 103000,
+"populationDensity": 3,
+"currency": "Icelandic Króna (ISK)",
+"language": "Icelandic",
+"timezone": "UTC+0",
+"callingCode": "+354",
+"internetDomain": ".is",
+"economy": {
+"gdp": 28000000000,
+"gdpPerCapita": 74000,
+"exports": "Aluminum, Fish Fillets, Processed Fish",
+"imports": "Refined Petroleum, Cars, Carbon-based Electronics"
+},
+"health_education": {
+"hdi": 0.959,
+"lifeExpectancy": 83.0,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Halla Tómasdóttir",
+"primeMinister": "Bjarni Benediktsson",
+"religion": "Christianity (60%)"
+},
+"geography": {
+"largestCity": "Reykjavik",
+"highestMountain": "Hvannadalshnúkur (2110 m)",
+"longestRiver": "Þjórsá (230 km)",
+"climate": "Subarctic",
+"averageTemp": 4.5
+},
+"technology": {
+"internetUsers": 370000,
+"internetSpeed": 105.0,
+"mobileUsers": 450000
+},
+"military": {
+"activePersonnel": 0,
+"defenseBudget": 0
+},
+"funFacts": [
+"Islandia adalah salah satu dari sedikit negara di dunia yang tidak memiliki pasukan militer aktif.",
+"Negara ini tidak memiliki nyamuk sama sekali karena iklimnya yang tidak mendukung siklus hidup serangga tersebut.",
+"Mendapatkan hampir 100% pasokan energinya dari sumber terbarukan, terutama energi panas bumi dan tenaga air."
+]
+}
 ]
