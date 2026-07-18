@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XAERISOFT | Country Compare</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Universe Background -->
+    <div class="universe-bg">
+        <div class="stars"></div>
+        <div class="aurora"></div>
+    </div>
+
+    <!-- Navigation & History/Fav -->
+    <nav class="glass-nav">
+        <div class="logo">🌍 XAERISOFT</div>
+        <div class="nav-actions">
+            <button id="btn-history">⏳ History</button>
+            <button id="btn-favorite">⭐ Favorites</button>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Hero & Search Section -->
+        <section class="hero-section" id="hero-section">
+            <div class="globe-anim">🌐</div>
+            <h1 class="glow-text">COUNTRY COMPARE</h1>
+            <p>Bandingkan data negara mana pun secara instan dan komprehensif.</p>
+            
+            <div class="search-container">
+                <div class="search-box glass-card">
+                    <label>Country A</label>
+                    <input type="text" id="search-a" placeholder="Type country (e.g. Indonesia)" autocomplete="off">
+                    <div class="suggestion-list" id="sug-a"></div>
+                    <div class="selected-badge" id="sel-a"></div>
+                </div>
+                
+                <div class="vs-badge glow-text">VS</div>
+                
+                <div class="search-box glass-card">
+                    <label>Country B</label>
+                    <input type="text" id="search-b" placeholder="Type country (e.g. Japan)" autocomplete="off">
+                    <div class="suggestion-list" id="sug-b"></div>
+                    <div class="selected-badge" id="sel-b"></div>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="btn-primary neon-btn" id="btn-compare">COMPARE NOW</button>
+                <button class="btn-secondary glass-btn" id="btn-random">Random Compare</button>
+            </div>
+        </section>
+
+        <!-- Loading Skeleton -->
+        <div id="loading" class="hidden">
+            <div class="loader-spinner"></div>
+            <p>Analyzing Data...</p>
+        </div>
+
+        <!-- Comparison Result Section -->
+        <section id="result-section" class="hidden">
+            
+            <div class="actions-bar glass-card">
+                <button onclick="window.print()">🖨️ Print / Export PDF</button>
+                <button id="btn-share">🔗 Share</button>
+                <button id="btn-fav-current">⭐ Add to Favorite</button>
+                <button id="btn-reset">🔙 Back to Search</button>
+            </div>
+
+            <!-- Auto Summary -->
+            <div class="summary-card glass-card">
+                <h3>🤖 AI Insight Summary</h3>
+                <p id="auto-summary"></p>
+                <h4 class="overall-winner glow-text" id="overall-winner"></h4>
+            </div>
+
+            <div id="comparison-grid" class="comparison-grid">
+                <!-- Data will be injected here via JS -->
+            </div>
+
+            <!-- Fun Facts -->
+            <div class="fun-facts-container">
+                <div class="fun-fact-card glass-card" id="fun-fact-a"></div>
+                <div class="fun-fact-card glass-card" id="fun-fact-b"></div>
+            </div>
+
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

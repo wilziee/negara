@@ -1,0 +1,1698 @@
+[
+  {
+    "id": "ID",
+    "name": "Indonesia",
+    "officialName": "Republik Indonesia",
+    "flag": "🇮🇩",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "population": 277534122,
+    "area": 1904569,
+    "populationDensity": 145,
+    "currency": "Indonesian Rupiah (IDR)",
+    "language": "Indonesian",
+    "timezone": "UTC+7 to UTC+9",
+    "callingCode": "+62",
+    "internetDomain": ".id",
+    "economy": {
+      "gdp": 1319000000000,
+      "gdpPerCapita": 4783,
+      "exports": "Coal, Palm Oil, Natural Gas",
+      "imports": "Refined Petroleum, Machinery"
+    },
+    "health_education": {
+      "hdi": 0.705,
+      "lifeExpectancy": 71.3,
+      "literacy": 96.0
+    },
+    "government": {
+      "type": "Presidential Republic",
+      "president": "Prabowo Subianto",
+      "primeMinister": "-",
+      "religion": "Islam (86.7%)"
+    },
+    "geography": {
+      "largestCity": "Jakarta",
+      "highestMountain": "Puncak Jaya (4,884 m)",
+      "longestRiver": "Kapuas (1,143 km)",
+      "climate": "Tropical",
+      "averageTemp": 27.5
+    },
+    "technology": {
+      "internetUsers": 212000000,
+      "internetSpeed": 24.3,
+      "mobileUsers": 353000000
+    },
+    "military": {
+      "activePersonnel": 400000,
+      "defenseBudget": 8800000000
+    },
+    "funFacts": [
+      "Negara kepulauan terbesar di dunia dengan lebih dari 17.000 pulau.",
+      "Memiliki bunga terbesar di dunia, Rafflesia Arnoldii.",
+      "Rumah bagi Komodo, kadal purba terbesar yang masih hidup.",
+      "Memiliki lebih dari 700 bahasa daerah yang diakui.",
+      "Menghasilkan salah satu kopi termahal di dunia, Kopi Luwak."
+    ]
+  },
+  {
+    "id": "JP",
+    "name": "Jepang",
+    "officialName": "Nippon-koku",
+    "flag": "🇯🇵",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "population": 125124989,
+    "area": 377975,
+    "populationDensity": 332,
+    "currency": "Japanese Yen (JPY)",
+    "language": "Japanese",
+    "timezone": "UTC+9",
+    "callingCode": "+81",
+    "internetDomain": ".jp",
+    "economy": {
+      "gdp": 4232000000000,
+      "gdpPerCapita": 33822,
+      "exports": "Cars, Vehicle Parts, Integrated Circuits",
+      "imports": "Petroleum, Petroleum Gas, Coal"
+    },
+    "health_education": {
+      "hdi": 0.925,
+      "lifeExpectancy": 84.6,
+      "literacy": 99.0
+    },
+    "government": {
+      "type": "Unitary Parliamentary Constitutional Monarchy",
+      "president": "Emperor Naruhito",
+      "primeMinister": "Fumio Kishida",
+      "religion": "Shinto, Buddhism"
+    },
+    "geography": {
+      "largestCity": "Tokyo",
+      "highestMountain": "Mount Fuji (3,776 m)",
+      "longestRiver": "Shinano (367 km)",
+      "climate": "Temperate",
+      "averageTemp": 15.2
+    },
+    "technology": {
+      "internetUsers": 116000000,
+      "internetSpeed": 146.5,
+      "mobileUsers": 195000000
+    },
+    "military": {
+      "activePersonnel": 247150,
+      "defenseBudget": 50000000000
+    },
+    "funFacts": [
+      "Kereta api di Jepang sangat tepat waktu, rata-rata keterlambatan hanya 18 detik.",
+      "Terdapat lebih banyak hewan peliharaan dibandingkan jumlah anak-anak di Jepang.",
+      "Memiliki mesin penjual otomatis (vending machine) terbanyak di dunia secara per kapita.",
+      "Ada pulau yang dipenuhi kelinci liar, yaitu Pulau Okunoshima.",
+      "Budaya makan KFC pada hari Natal menjadi tradisi populer di Jepang."
+    ]
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia",
+    "officialName": "Malaysia",
+    "flag": "🇲🇾",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "population": 33938221,
+    "area": 330803,
+    "populationDensity": 99,
+    "currency": "Malaysian Ringgit (MYR)",
+    "language": "Malay",
+    "timezone": "UTC+8",
+    "callingCode": "+60",
+    "internetDomain": ".my",
+    "economy": {
+      "gdp": 406000000000,
+      "gdpPerCapita": 11972,
+      "exports": "Electrical Products, Petroleum, Palm Oil",
+      "imports": "Machinery, Refined Petroleum, Integrated Circuits"
+    },
+    "health_education": {
+      "hdi": 0.803,
+      "lifeExpectancy": 74.9,
+      "literacy": 95.0
+    },
+    "government": {
+      "type": "Federal Parliamentary Elective Constitutional Monarchy",
+      "president": "Sultan Ibrahim Iskandar",
+      "primeMinister": "Anwar Ibrahim",
+      "religion": "Islam (63.5%)"
+    },
+    "geography": {
+      "largestCity": "Kuala Lumpur",
+      "highestMountain": "Mount Kinabalu (4,095 m)",
+      "longestRiver": "Rajang River (563 km)",
+      "climate": "Tropical",
+      "averageTemp": 27.0
+    },
+    "technology": {
+      "internetUsers": 31000000,
+      "internetSpeed": 115.0,
+      "mobileUsers": 44000000
+    },
+    "military": {
+      "activePersonnel": 113000,
+      "defenseBudget": 3800000000
+    },
+    "funFacts": [
+      "Memiliki Menara Kembar Petronas, menara kembar tertinggi di dunia.",
+      "Negara ini terbagi menjadi dua daratan utama yang dipisahkan oleh Laut China Selatan.",
+      "Memiliki salah satu hutan hujan tertua di dunia, Taman Negara, yang berusia sekitar 130 juta tahun.",
+      "Gua Clearwater di Sarawak adalah salah satu sistem gua terpanjang di dunia.",
+      "Bunga kebangsaannya adalah Bunga Raya (Hibiscus)."
+    ]
+  },
+  {
+    "id": "VN",
+    "name": "Vietnam",
+    "officialName": "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+    "flag": "🇻🇳",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "population": 98186856,
+    "area": 331212,
+    "populationDensity": 295,
+    "currency": "Vietnamese Dong (VND)",
+    "language": "Vietnamese",
+    "timezone": "UTC+7",
+    "callingCode": "+84",
+    "internetDomain": ".vn",
+    "economy": {
+      "gdp": 408000000000,
+      "gdpPerCapita": 4163,
+      "exports": "Broadcasting Equipment, Telephones, Integrated Circuits",
+      "imports": "Integrated Circuits, Telephones, Refined Petroleum"
+    },
+    "health_education": {
+      "hdi": 0.703,
+      "lifeExpectancy": 73.6,
+      "literacy": 95.8
+    },
+    "government": {
+      "type": "Unitary Marxist-Leninist One-Party Socialist Republic",
+      "president": "To Lam",
+      "primeMinister": "Pham Minh Chinh",
+      "religion": "Non-religious / Folk Religion (73.2%)"
+    },
+    "geography": {
+      "largestCity": "Ho Chi Minh City",
+      "highestMountain": "Fansipan (3,147 m)",
+      "longestRiver": "Red River (1,149 km)",
+      "climate": "Tropical",
+      "averageTemp": 24.5
+    },
+    "technology": {
+      "internetUsers": 72000000,
+      "internetSpeed": 93.3,
+      "mobileUsers": 143000000
+    },
+    "military": {
+      "activePersonnel": 482000,
+      "defenseBudget": 7100000000
+    },
+    "funFacts": [
+      "Vietnam adalah pengekspor kacang mete terbesar di dunia.",
+      "Memiliki gua terbesar di dunia, Gua Son Doong.",
+      "Banyak nama keluarga di Vietnam adalah Nguyen, mencakup sekitar 40% populasi.",
+      "Kopi telur adalah minuman khas yang sangat populer di Hanoi.",
+      "Lalu lintas di Vietnam sangat ikonik, didominasi oleh jutaan sepeda motor."
+    ]
+  },
+  {
+    "id": "BR",
+    "name": "Brazil",
+    "officialName": "República Federativa do Brasil",
+    "flag": "🇧🇷",
+    "capital": "Brasília",
+    "continent": "South America",
+    "population": 215313498,
+    "area": 8515767,
+    "populationDensity": 25,
+    "currency": "Brazilian Real (BRL)",
+    "language": "Portuguese",
+    "timezone": "UTC-5 to UTC-2",
+    "callingCode": "+55",
+    "internetDomain": ".br",
+    "economy": {
+      "gdp": 1920000000000,
+      "gdpPerCapita": 8917,
+      "exports": "Iron Ore, Soybeans, Crude Petroleum",
+      "imports": "Refined Petroleum, Vehicle Parts, Pesticides"
+    },
+    "health_education": {
+      "hdi": 0.754,
+      "lifeExpectancy": 75.3,
+      "literacy": 93.2
+    },
+    "government": {
+      "type": "Federal Presidential Republic",
+      "president": "Luiz Inácio Lula da Silva",
+      "primeMinister": "-",
+      "religion": "Christianity (88%)"
+    },
+    "geography": {
+      "largestCity": "São Paulo",
+      "highestMountain": "Pico da Neblina (2,995 m)",
+      "longestRiver": "Amazon River (6,400 km)",
+      "climate": "Tropical",
+      "averageTemp": 25.0
+    },
+    "technology": {
+      "internetUsers": 165000000,
+      "internetSpeed": 74.3,
+      "mobileUsers": 220000000
+    },
+    "military": {
+      "activePersonnel": 334500,
+      "defenseBudget": 20000000000
+    },
+    "funFacts": [
+      "Negara terbesar di Amerika Selatan dan kelima terbesar di dunia.",
+      "Memiliki sebagian besar hutan hujan Amazon yang sangat kaya akan keanekaragaman hayati.",
+      "Satu-satunya negara di Amerika Selatan yang bahasa resminya adalah bahasa Portugis.",
+      "Tuan rumah karnaval terbesar di dunia yang diadakan setiap tahun di Rio de Janeiro.",
+      "Tim nasional sepak bolanya telah memenangkan Piala Dunia FIFA sebanyak lima kali."
+    ]
+  },
+  {
+    "id": "DK",
+    "name": "Denmark",
+    "officialName": "Kongeriget Danmark",
+    "flag": "🇩🇰",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "population": 5932654,
+    "area": 42933,
+    "populationDensity": 138,
+    "currency": "Danish Krone (DKK)",
+    "language": "Danish",
+    "timezone": "UTC+1",
+    "callingCode": "+45",
+    "internetDomain": ".dk",
+    "economy": {
+      "gdp": 395400000000,
+      "gdpPerCapita": 66672,
+      "exports": "Packaged Medicaments, Pig Meat, Electric Generating Sets",
+      "imports": "Cars, Refined Petroleum, Packaged Medicaments"
+    },
+    "health_education": {
+      "hdi": 0.948,
+      "lifeExpectancy": 81.4,
+      "literacy": 99.0
+    },
+    "government": {
+      "type": "Unitary Parliamentary Constitutional Monarchy",
+      "president": "King Frederik X",
+      "primeMinister": "Mette Frederiksen",
+      "religion": "Christianity (74%)"
+    },
+    "geography": {
+      "largestCity": "Copenhagen",
+      "highestMountain": "Møllehøj (171 m)",
+      "longestRiver": "Gudenå (176 km)",
+      "climate": "Temperate",
+      "averageTemp": 8.5
+    },
+    "technology": {
+      "internetUsers": 5800000,
+      "internetSpeed": 105.0,
+      "mobileUsers": 7200000
+    },
+    "military": {
+      "activePersonnel": 15400,
+      "defenseBudget": 4000000000
+    },
+    "funFacts": [
+      "Bendera Denmark (Dannebrog) adalah bendera nasional tertua di dunia yang masih terus digunakan.",
+      "Memiliki lebih banyak sepeda daripada mobil, terutama di ibu kotanya, Kopenhagen.",
+      "Merupakan tempat kelahiran mainan bongkar pasang LEGO.",
+      "Negara ini konsisten berada di peringkat teratas dalam daftar negara paling bahagia di dunia.",
+      "Wilayahnya sangat datar, dengan titik tertingginya hanya 171 meter di atas permukaan laut."
+]
+},
+{
+"id": "FR",
+"name": "Prancis",
+"officialName": "République française",
+"flag": "🇫🇷",
+"capital": "Paris",
+"continent": "Europe",
+"population": 68000000,
+"area": 551695,
+"populationDensity": 123,
+"currency": "Euro (EUR)",
+"language": "French",
+"timezone": "UTC+1",
+"callingCode": "+33",
+"internetDomain": ".fr",
+"economy": {
+"gdp": 2770000000000,
+"gdpPerCapita": 40963,
+"exports": "Aircraft, Packaged Medicaments, Cars",
+"imports": "Cars, Crude Petroleum, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.903,
+"lifeExpectancy": 82.3,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Semi-Presidential Republic",
+"president": "Emmanuel Macron",
+"primeMinister": "Michel Barnier",
+"religion": "Christianity (47%)"
+},
+"geography": {
+"largestCity": "Paris",
+"highestMountain": "Mont Blanc (4,805 m)",
+"longestRiver": "Loire (1,006 km)",
+"climate": "Temperate",
+"averageTemp": 10.7
+},
+"technology": {
+"internetUsers": 60000000,
+"internetSpeed": 120.5,
+"mobileUsers": 75000000
+},
+"military": {
+"activePersonnel": 205000,
+"defenseBudget": 55000000000
+},
+"funFacts": [
+"Negara yang paling banyak dikunjungi wisatawan di dunia.",
+"Memiliki jumlah zona waktu terbanyak di dunia (12 zona) karena wilayah seberang lautnya.",
+"Louvre di Paris adalah museum seni terbesar di dunia.",
+"Menghasilkan lebih dari 1.000 jenis keju yang berbeda.",
+"Tour de France adalah perlombaan sepeda tahunan paling terkenal di dunia."
+]
+},
+{
+"id": "IT",
+"name": "Italia",
+"officialName": "Repubblica Italiana",
+"flag": "🇮🇹",
+"capital": "Rome",
+"continent": "Europe",
+"population": 58800000,
+"area": 301340,
+"populationDensity": 195,
+"currency": "Euro (EUR)",
+"language": "Italian",
+"timezone": "UTC+1",
+"callingCode": "+39",
+"internetDomain": ".it",
+"economy": {
+"gdp": 2050000000000,
+"gdpPerCapita": 34776,
+"exports": "Packaged Medicaments, Cars, Vehicle Parts",
+"imports": "Cars, Crude Petroleum, Petroleum Gas"
+},
+"health_education": {
+"hdi": 0.895,
+"lifeExpectancy": 83.5,
+"literacy": 99.2
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Sergio Mattarella",
+"primeMinister": "Giorgia Meloni",
+"religion": "Christianity (80%)"
+},
+"geography": {
+"largestCity": "Rome",
+"highestMountain": "Mont Blanc (4,805 m)",
+"longestRiver": "Po (652 km)",
+"climate": "Mediterranean",
+"averageTemp": 13.5
+},
+"technology": {
+"internetUsers": 50000000,
+"internetSpeed": 95.0,
+"mobileUsers": 78000000
+},
+"military": {
+"activePersonnel": 165500,
+"defenseBudget": 28000000000
+},
+"funFacts": [
+"Memiliki Situs Warisan Dunia UNESCO terbanyak di dunia.",
+"Di dalam kota Roma terdapat negara merdeka terkecil di dunia, yaitu Vatikan.",
+"Penemu pizza, espresso, dan termometer.",
+"Memiliki gunung berapi aktif terbanyak di Eropa, termasuk Gunung Etna dan Vesuvius.",
+"Air mancur Trevi di Roma mengumpulkan sekitar 3.000 Euro setiap harinya dari koin yang dilempar."
+]
+},
+{
+"id": "DE",
+"name": "Jerman",
+"officialName": "Bundesrepublik Deutschland",
+"flag": "🇩🇪",
+"capital": "Berlin",
+"continent": "Europe",
+"population": 83200000,
+"area": 357022,
+"populationDensity": 233,
+"currency": "Euro (EUR)",
+"language": "German",
+"timezone": "UTC+1",
+"callingCode": "+49",
+"internetDomain": ".de",
+"economy": {
+"gdp": 4070000000000,
+"gdpPerCapita": 48496,
+"exports": "Cars, Vehicle Parts, Packaged Medicaments",
+"imports": "Cars, Crude Petroleum, Vehicle Parts"
+},
+"health_education": {
+"hdi": 0.942,
+"lifeExpectancy": 81.3,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Parliamentary Republic",
+"president": "Frank-Walter Steinmeier",
+"primeMinister": "Olaf Scholz",
+"religion": "Christianity (54%)"
+},
+"geography": {
+"largestCity": "Berlin",
+"highestMountain": "Zugspitze (2,962 m)",
+"longestRiver": "Rhine (1,230 km)",
+"climate": "Temperate",
+"averageTemp": 10.4
+},
+"technology": {
+"internetUsers": 78000000,
+"internetSpeed": 85.0,
+"mobileUsers": 107000000
+},
+"military": {
+"activePersonnel": 183000,
+"defenseBudget": 53000000000
+},
+"funFacts": [
+"Memiliki lebih dari 1.000 jenis sosis (Wurst) yang berbeda.",
+"Jalan tol di Jerman (Autobahn) terkenal karena banyak ruas yang tidak memiliki batas kecepatan.",
+"Merupakan salah satu produsen mobil terbesar di dunia (BMW, Mercedes-Benz, Audi, Volkswagen).",
+"Tradisi Oktoberfest, festival bir terbesar di dunia, berasal dari München.",
+"Sepertiga wilayah daratan Jerman masih tertutup oleh hutan."
+]
+},
+{
+"id": "ES",
+"name": "Spanyol",
+"officialName": "Reino de España",
+"flag": "🇪🇸",
+"capital": "Madrid",
+"continent": "Europe",
+"population": 47420000,
+"area": 505990,
+"populationDensity": 94,
+"currency": "Euro (EUR)",
+"language": "Spanish",
+"timezone": "UTC+1 to UTC+0",
+"callingCode": "+34",
+"internetDomain": ".es",
+"economy": {
+"gdp": 1420000000000,
+"gdpPerCapita": 30116,
+"exports": "Cars, Refined Petroleum, Packaged Medicaments",
+"imports": "Crude Petroleum, Cars, Vehicle Parts"
+},
+"health_education": {
+"hdi": 0.905,
+"lifeExpectancy": 83.0,
+"literacy": 98.4
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Felipe VI",
+"primeMinister": "Pedro Sánchez",
+"religion": "Christianity (58%)"
+},
+"geography": {
+"largestCity": "Madrid",
+"highestMountain": "Teide (3,718 m)",
+"longestRiver": "Tagus (1,007 km)",
+"climate": "Mediterranean",
+"averageTemp": 16.0
+},
+"technology": {
+"internetUsers": 43000000,
+"internetSpeed": 114.4,
+"mobileUsers": 55000000
+},
+"military": {
+"activePersonnel": 120000,
+"defenseBudget": 17000000000
+},
+"funFacts": [
+"Bahasa Spanyol adalah bahasa kedua yang paling banyak digunakan di dunia berdasarkan penutur asli.",
+"Memiliki restoran tertua di dunia yang masih beroperasi, Sobrino de Botín di Madrid.",
+"Spanyol memproduksi sekitar setengah dari total minyak zaitun dunia.",
+"Festival La Tomatina adalah perang tomat terbesar di dunia yang diadakan setiap tahun di Buñol.",
+"Karya sastra modern pertama, Don Quixote, ditulis oleh penulis Spanyol Miguel de Cervantes."
+]
+},
+{
+"id": "GB",
+"name": "Britania Raya",
+"officialName": "United Kingdom of Great Britain and Northern Ireland",
+"flag": "🇬🇧",
+"capital": "London",
+"continent": "Europe",
+"population": 67736802,
+"area": 242495,
+"populationDensity": 279,
+"currency": "British Pound (GBP)",
+"language": "English",
+"timezone": "UTC+0",
+"callingCode": "+44",
+"internetDomain": ".uk",
+"economy": {
+"gdp": 3140000000000,
+"gdpPerCapita": 46125,
+"exports": "Cars, Gas Turbines, Gold",
+"imports": "Gold, Cars, Broadcasting Equipment"
+},
+"health_education": {
+"hdi": 0.929,
+"lifeExpectancy": 81.2,
+"literacy": 99.0
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Charles III",
+"primeMinister": "Keir Starmer",
+"religion": "Christianity (59%)"
+},
+"geography": {
+"largestCity": "London",
+"highestMountain": "Ben Nevis (1,345 m)",
+"longestRiver": "River Severn (354 km)",
+"climate": "Temperate",
+"averageTemp": 9.3
+},
+"technology": {
+"internetUsers": 65000000,
+"internetSpeed": 73.0,
+"mobileUsers": 79000000
+},
+"military": {
+"activePersonnel": 152000,
+"defenseBudget": 68000000000
+},
+"funFacts": [
+"Stonehenge adalah salah satu monumen prasejarah paling terkenal di dunia.",
+"Tidak ada titik di Inggris yang jaraknya lebih dari 113 km dari laut.",
+"Bahasa Inggris adalah bahasa yang paling banyak dipelajari di dunia.",
+"Revolusi Industri dimulai di Inggris pada abad ke-18.",
+"Sistem kereta api bawah tanah London (London Underground) adalah yang tertua di dunia."
+]
+},
+{
+"id": "AU",
+"name": "Australia",
+"officialName": "Commonwealth of Australia",
+"flag": "🇦🇺",
+"capital": "Canberra",
+"continent": "Oceania",
+"population": 26000000,
+"area": 7692024,
+"populationDensity": 3,
+"currency": "Australian Dollar (AUD)",
+"language": "English",
+"timezone": "UTC+8 to UTC+11",
+"callingCode": "+61",
+"internetDomain": ".au",
+"economy": {
+"gdp": 1670000000000,
+"gdpPerCapita": 64491,
+"exports": "Iron Ore, Coal, Petroleum Gas",
+"imports": "Cars, Refined Petroleum, Broadcasting Equipment"
+},
+"health_education": {
+"hdi": 0.951,
+"lifeExpectancy": 83.4,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Parliamentary Constitutional Monarchy",
+"president": "King Charles III",
+"primeMinister": "Anthony Albanese",
+"religion": "Christianity (43.9%)"
+},
+"geography": {
+"largestCity": "Sydney",
+"highestMountain": "Mount Kosciuszko (2,228 m)",
+"longestRiver": "Murray River (2,508 km)",
+"climate": "Arid to Tropical",
+"averageTemp": 21.6
+},
+"technology": {
+"internetUsers": 22000000,
+"internetSpeed": 50.0,
+"mobileUsers": 27000000
+},
+"military": {
+"activePersonnel": 60000,
+"defenseBudget": 32000000000
+},
+"funFacts": [
+"Benua terkecil di dunia sekaligus pulau terbesar di dunia.",
+"Rumah bagi Great Barrier Reef, sistem terumbu karang terbesar di dunia.",
+"Terdapat lebih banyak kanguru daripada manusia di Australia.",
+"Memiliki lebih dari 10.000 pantai; Anda bisa mengunjungi satu pantai setiap hari selama 27 tahun.",
+"Sebagian besar daratannya adalah gurun atau daerah kering yang dikenal sebagai Outback."
+]
+},
+{
+"id": "US",
+"name": "Amerika Serikat",
+"officialName": "United States of America",
+"flag": "🇺🇸",
+"capital": "Washington, D.C.",
+"continent": "North America",
+"population": 334914895,
+"area": 9833517,
+"populationDensity": 34,
+"currency": "United States Dollar (USD)",
+"language": "English",
+"timezone": "UTC-12 to UTC+12",
+"callingCode": "+1",
+"internetDomain": ".us",
+"economy": {
+"gdp": 26950000000000,
+"gdpPerCapita": 80412,
+"exports": "Refined Petroleum, Petroleum Gas, Crude Petroleum",
+"imports": "Cars, Crude Petroleum, Computers"
+},
+"health_education": {
+"hdi": 0.927,
+"lifeExpectancy": 77.2,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Presidential Republic",
+"president": "Joe Biden",
+"primeMinister": "-",
+"religion": "Christianity (63%)"
+},
+"geography": {
+"largestCity": "New York City",
+"highestMountain": "Denali (6,190 m)",
+"longestRiver": "Missouri River (3,767 km)",
+"climate": "Varied",
+"averageTemp": 11.5
+},
+"technology": {
+"internetUsers": 311000000,
+"internetSpeed": 200.0,
+"mobileUsers": 360000000
+},
+"military": {
+"activePersonnel": 1390000,
+"defenseBudget": 816000000000
+},
+"funFacts": [
+"Memiliki ekonomi terbesar di dunia berdasarkan PDB nominal.",
+"Taman Nasional Yellowstone adalah taman nasional pertama di dunia.",
+"Patung Liberty yang ikonik adalah hadiah persahabatan dari Prancis.",
+"Industri hiburan Hollywood mendominasi perfilman global.",
+"Neil Armstrong, astronot Amerika, adalah manusia pertama yang berjalan di bulan."
+]
+},
+{
+"id": "CA",
+"name": "Kanada",
+"officialName": "Canada",
+"flag": "🇨🇦",
+"capital": "Ottawa",
+"continent": "North America",
+"population": 38929902,
+"area": 9984670,
+"populationDensity": 4,
+"currency": "Canadian Dollar (CAD)",
+"language": "English, French",
+"timezone": "UTC-8 to UTC-3.5",
+"callingCode": "+1",
+"internetDomain": ".ca",
+"economy": {
+"gdp": 2140000000000,
+"gdpPerCapita": 54966,
+"exports": "Crude Petroleum, Cars, Gold",
+"imports": "Cars, Delivery Trucks, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.936,
+"lifeExpectancy": 82.6,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Parliamentary Constitutional Monarchy",
+"president": "King Charles III",
+"primeMinister": "Justin Trudeau",
+"religion": "Christianity (53.3%)"
+},
+"geography": {
+"largestCity": "Toronto",
+"highestMountain": "Mount Logan (5,959 m)",
+"longestRiver": "Mackenzie River (4,241 km)",
+"climate": "Cold to Temperate",
+"averageTemp": -5.3
+},
+"technology": {
+"internetUsers": 36000000,
+"internetSpeed": 150.0,
+"mobileUsers": 33000000
+},
+"military": {
+"activePersonnel": 68000,
+"defenseBudget": 26000000000
+},
+"funFacts": [
+"Kanada memiliki garis pantai terpanjang di dunia.",
+"Terdapat lebih banyak danau di Kanada dibandingkan gabungan seluruh negara lain di dunia.",
+"Memproduksi sekitar 71% dari total pasokan sirup maple murni di dunia.",
+"Daun maple telah menjadi simbol nasional resmi Kanada sejak abad ke-18.",
+"Batas negaranya dengan Amerika Serikat adalah perbatasan darat internasional terpanjang di dunia."
+]
+},
+{
+"id": "CN",
+"name": "China",
+"officialName": "People's Republic of China",
+"flag": "🇨🇳",
+"capital": "Beijing",
+"continent": "Asia",
+"population": 1412000000,
+"area": 9596961,
+"populationDensity": 145,
+"currency": "Renminbi (CNY)",
+"language": "Mandarin",
+"timezone": "UTC+8",
+"callingCode": "+86",
+"internetDomain": ".cn",
+"economy": {
+"gdp": 17730000000000,
+"gdpPerCapita": 12556,
+"exports": "Broadcasting Equipment, Computers, Integrated Circuits",
+"imports": "Integrated Circuits, Crude Petroleum, Iron Ore"
+},
+"health_education": {
+"hdi": 0.768,
+"lifeExpectancy": 78.2,
+"literacy": 97.3
+},
+"government": {
+"type": "Unitary Marxist-Leninist One-Party Socialist Republic",
+"president": "Xi Jinping",
+"primeMinister": "Li Qiang",
+"religion": "Non-religious (74%)"
+},
+"geography": {
+"largestCity": "Shanghai",
+"highestMountain": "Mount Everest (8,848 m)",
+"longestRiver": "Yangtze (6,300 km)",
+"climate": "Varied",
+"averageTemp": 6.9
+},
+"technology": {
+"internetUsers": 1050000000,
+"internetSpeed": 150.0,
+"mobileUsers": 1700000000
+},
+"military": {
+"activePersonnel": 2000000,
+"defenseBudget": 225000000000
+},
+"funFacts": [
+"Tembok Besar China adalah struktur buatan manusia terpanjang di dunia.",
+"Tempat penemuan kertas, bubuk mesiu, kompas, dan teknik percetakan.",
+"Memiliki populasi terbesar kedua di dunia setelah India.",
+"Panda raksasa adalah hewan endemik China dan dianggap sebagai harta nasional.",
+"Meskipun wilayahnya sangat luas, seluruh negara ini secara resmi hanya menggunakan satu zona waktu."
+]
+},
+{
+"id": "IN",
+"name": "India",
+"officialName": "Republic of India",
+"flag": "🇮🇳",
+"capital": "New Delhi",
+"continent": "Asia",
+"population": 1428000000,
+"area": 3287263,
+"populationDensity": 434,
+"currency": "Indian Rupee (INR)",
+"language": "Hindi, English",
+"timezone": "UTC+5:30",
+"callingCode": "+91",
+"internetDomain": ".in",
+"economy": {
+"gdp": 3385000000000,
+"gdpPerCapita": 2389,
+"exports": "Refined Petroleum, Diamonds, Packaged Medicaments",
+"imports": "Crude Petroleum, Gold, Coal"
+},
+"health_education": {
+"hdi": 0.633,
+"lifeExpectancy": 70.1,
+"literacy": 74.0
+},
+"government": {
+"type": "Federal Parliamentary Republic",
+"president": "Droupadi Murmu",
+"primeMinister": "Narendra Modi",
+"religion": "Hinduism (79.8%)"
+},
+"geography": {
+"largestCity": "Mumbai",
+"highestMountain": "Kangchenjunga (8,586 m)",
+"longestRiver": "Ganges (2,525 km)",
+"climate": "Tropical to Temperate",
+"averageTemp": 24.0
+},
+"technology": {
+"internetUsers": 830000000,
+"internetSpeed": 50.0,
+"mobileUsers": 1140000000
+},
+"military": {
+"activePersonnel": 1450000,
+"defenseBudget": 72000000000
+},
+"funFacts": [
+"Saat ini merupakan negara dengan populasi terbanyak di dunia.",
+"Tempat kelahiran permainan catur, yoga, serta agama Hindu dan Buddha.",
+"Taj Mahal di Agra adalah salah satu dari Tujuh Keajaiban Dunia Baru.",
+"Industri film Bollywood memproduksi lebih banyak film setiap tahunnya daripada Hollywood.",
+"Memiliki kantor pos terapung satu-satunya di dunia, yang terletak di Danau Dal, Srinagar."
+]
+},
+{
+"id": "RU",
+"name": "Rusia",
+"officialName": "Rossiyskaya Federatsiya",
+"flag": "🇷🇺",
+"capital": "Moskow",
+"continent": "Eropa / Asia",
+"population": 144000000,
+"area": 17098242,
+"populationDensity": 9,
+"currency": "Russian Ruble (RUB)",
+"language": "Russian",
+"timezone": "UTC+2 to UTC+12",
+"callingCode": "+7",
+"internetDomain": ".ru",
+"economy": {
+"gdp": 2060000000000,
+"gdpPerCapita": 14300,
+"exports": "Crude Petroleum, Petroleum Gas, Coal",
+"imports": "Cars, Broadcasting Equipment, Packaged Medicaments"
+},
+"health_education": {
+"hdi": 0.822,
+"lifeExpectancy": 72.8,
+"literacy": 99.7
+},
+"government": {
+"type": "Federal Semi-Presidential Republic",
+"president": "Vladimir Putin",
+"primeMinister": "Mikhail Mishustin",
+"religion": "Christianity (71%)"
+},
+"geography": {
+"largestCity": "Moskow",
+"highestMountain": "Mount Elbrus (5,642 m)",
+"longestRiver": "Volga (3,530 km)",
+"climate": "Varied",
+"averageTemp": -5.1
+},
+"technology": {
+"internetUsers": 124000000,
+"internetSpeed": 80.0,
+"mobileUsers": 230000000
+},
+"military": {
+"activePersonnel": 1150000,
+"defenseBudget": 86000000000
+},
+"funFacts": [
+"Negara terluas di dunia, mencakup seperdelapan wilayah daratan bumi.",
+"Memiliki sistem kereta bawah tanah (Metro) paling megah dan indah di dunia.",
+"Danau Baikal di Siberia adalah danau air tawar terdalam dan tertua di dunia.",
+"Rusia memiliki 12 zona waktu yang berbeda dalam satu negara.",
+"Trans-Siberian Railway adalah jalur kereta api terpanjang di dunia yang menghubungkan Moskow hingga Vladivostok."
+]
+},
+{
+"id": "KR",
+"name": "Korea Selatan",
+"officialName": "Daehan Minguk",
+"flag": "🇰🇷",
+"capital": "Seoul",
+"continent": "Asia",
+"population": 51700000,
+"area": 100210,
+"populationDensity": 517,
+"currency": "South Korean Won (KRW)",
+"language": "Korean",
+"timezone": "UTC+9",
+"callingCode": "+82",
+"internetDomain": ".kr",
+"economy": {
+"gdp": 1665000000000,
+"gdpPerCapita": 32237,
+"exports": "Integrated Circuits, Cars, Refined Petroleum",
+"imports": "Crude Petroleum, Integrated Circuits, Natural Gas"
+},
+"health_education": {
+"hdi": 0.925,
+"lifeExpectancy": 83.5,
+"literacy": 98.0
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Yoon Suk Yeol",
+"primeMinister": "Han Duck-soo",
+"religion": "Non-religious (56.1%)"
+},
+"geography": {
+"largestCity": "Seoul",
+"highestMountain": "Hallasan (1,947 m)",
+"longestRiver": "Nakdong River (510 km)",
+"climate": "Temperate",
+"averageTemp": 12.7
+},
+"technology": {
+"internetUsers": 50000000,
+"internetSpeed": 250.0,
+"mobileUsers": 55000000
+},
+"military": {
+"activePersonnel": 555000,
+"defenseBudget": 44000000000
+},
+"funFacts": [
+"Memiliki salah satu kecepatan internet tercepat di dunia.",
+"Budaya K-Pop dan K-Drama telah menjadi fenomena global yang sangat populer.",
+"Seoul adalah rumah bagi banyak teknologi canggih seperti Samsung dan LG.",
+"Sistem daur ulang limbah makanan di Korea Selatan adalah salah satu yang terbaik di dunia.",
+"Kimchi, makanan fermentasi khas Korea, telah terdaftar sebagai warisan budaya UNESCO."
+]
+},
+{
+"id": "MX",
+"name": "Meksiko",
+"officialName": "Estados Unidos Mexicanos",
+"flag": "🇲🇽",
+"capital": "Mexico City",
+"continent": "North America",
+"population": 128455567,
+"area": 1964375,
+"populationDensity": 65,
+"currency": "Mexican Peso (MXN)",
+"language": "Spanish",
+"timezone": "UTC-8 to UTC-5",
+"callingCode": "+52",
+"internetDomain": ".mx",
+"economy": {
+"gdp": 1414000000000,
+"gdpPerCapita": 11496,
+"exports": "Cars, Computers, Vehicle Parts",
+"imports": "Vehicle Parts, Integrated Circuits, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.758,
+"lifeExpectancy": 75.1,
+"literacy": 95.3
+},
+"government": {
+"type": "Federal Presidential Republic",
+"president": "Claudia Sheinbaum",
+"primeMinister": "-",
+"religion": "Christianity (89%)"
+},
+"geography": {
+"largestCity": "Mexico City",
+"highestMountain": "Pico de Orizaba (5,636 m)",
+"longestRiver": "Rio Grande (3,051 km)",
+"climate": "Varied",
+"averageTemp": 21.0
+},
+"technology": {
+"internetUsers": 100000000,
+"internetSpeed": 50.5,
+"mobileUsers": 120000000
+},
+"military": {
+"activePersonnel": 275000,
+"defenseBudget": 8000000000
+},
+"funFacts": [
+"Piramida terbesar di dunia ada di Meksiko, yaitu Piramida Cholula.",
+"Cokelat ditemukan dan pertama kali dikonsumsi oleh peradaban kuno di Meksiko.",
+"Meksiko memiliki lebih dari 60 bahasa asli yang masih digunakan hingga saat ini.",
+"Ibu kotanya, Mexico City, dibangun di atas danau dan perlahan-lahan tenggelam.",
+"Hari Kematian (Día de los Muertos) adalah perayaan ikonik Meksiko untuk menghormati leluhur."
+]
+},
+{
+"id": "AR",
+"name": "Argentina",
+"officialName": "República Argentina",
+"flag": "🇦🇷",
+"capital": "Buenos Aires",
+"continent": "South America",
+"population": 46234830,
+"area": 2780400,
+"populationDensity": 17,
+"currency": "Argentine Peso (ARS)",
+"language": "Spanish",
+"timezone": "UTC-3",
+"callingCode": "+54",
+"internetDomain": ".ar",
+"economy": {
+"gdp": 491000000000,
+"gdpPerCapita": 10630,
+"exports": "Corn, Soybean Meal, Delivery Trucks",
+"imports": "Cars, Refined Petroleum, Petroleum Gas"
+},
+"health_education": {
+"hdi": 0.842,
+"lifeExpectancy": 76.7,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Presidential Republic",
+"president": "Javier Milei",
+"primeMinister": "-",
+"religion": "Christianity (79.6%)"
+},
+"geography": {
+"largestCity": "Buenos Aires",
+"highestMountain": "Aconcagua (6,960 m)",
+"longestRiver": "Paraná (4,880 km)",
+"climate": "Temperate",
+"averageTemp": 14.8
+},
+"technology": {
+"internetUsers": 39000000,
+"internetSpeed": 45.0,
+"mobileUsers": 55000000
+},
+"military": {
+"activePersonnel": 83000,
+"defenseBudget": 3000000000
+},
+"funFacts": [
+"Aconcagua di Argentina adalah gunung tertinggi di luar benua Asia.",
+"Negara pertama yang menggunakan sidik jari untuk mengidentifikasi pelaku kejahatan pada tahun 1892.",
+"Tarian Tango yang terkenal di dunia berasal dari Buenos Aires.",
+"Argentina adalah produsen dan pengekspor anggur terbesar kelima di dunia.",
+"Memiliki salah satu jalan terlebar di dunia, yaitu Avenida 9 de Julio."
+]
+},
+{
+"id": "ZA",
+"name": "Afrika Selatan",
+"officialName": "Republic of South Africa",
+"flag": "🇿🇦",
+"capital": "Pretoria",
+"continent": "Africa",
+"population": 60414495,
+"area": 1221037,
+"populationDensity": 49,
+"currency": "South African Rand (ZAR)",
+"language": "English, Zulu, Xhosa, Afrikaans",
+"timezone": "UTC+2",
+"callingCode": "+27",
+"internetDomain": ".za",
+"economy": {
+"gdp": 399000000000,
+"gdpPerCapita": 6694,
+"exports": "Gold, Platinum, Cars",
+"imports": "Refined Petroleum, Cars, Broadcasting Equipment"
+},
+"health_education": {
+"hdi": 0.713,
+"lifeExpectancy": 64.3,
+"literacy": 95.0
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Cyril Ramaphosa",
+"primeMinister": "-",
+"religion": "Christianity (78%)"
+},
+"geography": {
+"largestCity": "Johannesburg",
+"highestMountain": "Mafadi (3,450 m)",
+"longestRiver": "Orange River (2,200 km)",
+"climate": "Temperate",
+"averageTemp": 17.5
+},
+"technology": {
+"internetUsers": 43000000,
+"internetSpeed": 28.5,
+"mobileUsers": 100000000
+},
+"military": {
+"activePersonnel": 74000,
+"defenseBudget": 3100000000
+},
+"funFacts": [
+"Memiliki tiga ibu kota resmi: Pretoria (eksekutif), Cape Town (legislatif), dan Bloemfontein (yudikatif).",
+"Negara pertama dan satu-satunya di Afrika yang pernah menjadi tuan rumah Piala Dunia FIFA pada tahun 2010.",
+"Table Mountain di Cape Town adalah salah satu gunung tertua di dunia.",
+"Satu-satunya negara di dunia yang pernah secara sukarela membongkar program senjata nuklirnya.",
+"Taman Nasional Kruger adalah salah satu cagar alam terbesar di Afrika."
+]
+},
+{
+"id": "EG",
+"name": "Mesir",
+"officialName": "Arab Republic of Egypt",
+"flag": "🇪🇬",
+"capital": "Cairo",
+"continent": "Africa",
+"population": 110990103,
+"area": 1002450,
+"populationDensity": 111,
+"currency": "Egyptian Pound (EGP)",
+"language": "Arabic",
+"timezone": "UTC+2 to UTC+3",
+"callingCode": "+20",
+"internetDomain": ".eg",
+"economy": {
+"gdp": 398000000000,
+"gdpPerCapita": 3698,
+"exports": "Crude Petroleum, Refined Petroleum, Gold",
+"imports": "Wheat, Cars, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.731,
+"lifeExpectancy": 72.5,
+"literacy": 73.1
+},
+"government": {
+"type": "Unitary Semi-Presidential Republic",
+"president": "Abdel Fattah el-Sisi",
+"primeMinister": "Mostafa Madbouly",
+"religion": "Islam (90%)"
+},
+"geography": {
+"largestCity": "Cairo",
+"highestMountain": "Mount Catherine (2,629 m)",
+"longestRiver": "Nile (6,650 km)",
+"climate": "Arid",
+"averageTemp": 22.1
+},
+"technology": {
+"internetUsers": 75000000,
+"internetSpeed": 45.0,
+"mobileUsers": 105000000
+},
+"military": {
+"activePersonnel": 438500,
+"defenseBudget": 4600000000
+},
+"funFacts": [
+"Piramida Agung Giza adalah satu-satunya dari Tujuh Keajaiban Dunia Kuno yang masih utuh hingga saat ini.",
+"Sungai Nil yang mengalir melalui Mesir sering dianggap sebagai sungai terpanjang di dunia.",
+"Orang Mesir kuno adalah salah satu peradaban pertama yang menemukan kalender 365 hari.",
+"Terusan Suez di Mesir adalah salah satu jalur pelayaran buatan terpenting di dunia, menghubungkan Laut Mediterania dan Laut Merah.",
+"Kucing dianggap sebagai hewan suci dan sangat dihormati dalam peradaban Mesir kuno."
+]
+},
+{
+"id": "SA",
+"name": "Arab Saudi",
+"officialName": "Kingdom of Saudi Arabia",
+"flag": "🇸🇦",
+"capital": "Riyadh",
+"continent": "Asia",
+"population": 36408820,
+"area": 2149690,
+"populationDensity": 17,
+"currency": "Saudi Riyal (SAR)",
+"language": "Arabic",
+"timezone": "UTC+3",
+"callingCode": "+966",
+"internetDomain": ".sa",
+"economy": {
+"gdp": 1108000000000,
+"gdpPerCapita": 30436,
+"exports": "Crude Petroleum, Refined Petroleum, Polymers",
+"imports": "Cars, Broadcasting Equipment, Refined Petroleum"
+},
+"health_education": {
+"hdi": 0.875,
+"lifeExpectancy": 75.3,
+"literacy": 97.6
+},
+"government": {
+"type": "Unitary Islamic Absolute Monarchy",
+"president": "King Salman bin Abdulaziz",
+"primeMinister": "Mohammed bin Salman",
+"religion": "Islam (100%)"
+},
+"geography": {
+"largestCity": "Riyadh",
+"highestMountain": "Jabal Sawda (3,000 m)",
+"longestRiver": "Wadi al-Rummah (600 km)",
+"climate": "Desert",
+"averageTemp": 28.5
+},
+"technology": {
+"internetUsers": 35000000,
+"internetSpeed": 110.0,
+"mobileUsers": 41000000
+},
+"military": {
+"activePersonnel": 257000,
+"defenseBudget": 75000000000
+},
+"funFacts": [
+"Tempat lahirnya agama Islam dan rumah bagi dua kota suci, Makkah dan Madinah.",
+"Merupakan negara terbesar di dunia yang tidak memiliki sungai permanen yang mengalir sepanjang tahun.",
+"Memiliki gurun pasir tak terputus terbesar di dunia, yaitu Rub' al Khali (Empty Quarter).",
+"Pengekspor minyak bumi terbesar di dunia.",
+"Sedang membangun kota futuristik linier bernama NEOM yang direncanakan beroperasi 100% dengan energi terbarukan."
+]
+},
+{
+"id": "TR",
+"name": "Turki",
+"officialName": "Türkiye Cumhuriyeti",
+"flag": "🇹🇷",
+"capital": "Ankara",
+"continent": "Asia / Europe",
+"population": 85326000,
+"area": 783562,
+"populationDensity": 110,
+"currency": "Turkish Lira (TRY)",
+"language": "Turkish",
+"timezone": "UTC+3",
+"callingCode": "+90",
+"internetDomain": ".tr",
+"economy": {
+"gdp": 1154000000000,
+"gdpPerCapita": 13531,
+"exports": "Cars, Refined Petroleum, Delivery Trucks",
+"imports": "Gold, Refined Petroleum, Scrap Iron"
+},
+"health_education": {
+"hdi": 0.838,
+"lifeExpectancy": 77.7,
+"literacy": 96.7
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Recep Tayyip Erdoğan",
+"primeMinister": "-",
+"religion": "Islam (99%)"
+},
+"geography": {
+"largestCity": "Istanbul",
+"highestMountain": "Mount Ararat (5,137 m)",
+"longestRiver": "Kızılırmak (1,355 km)",
+"climate": "Mediterranean",
+"averageTemp": 11.7
+},
+"technology": {
+"internetUsers": 71000000,
+"internetSpeed": 35.0,
+"mobileUsers": 88000000
+},
+"military": {
+"activePersonnel": 425000,
+"defenseBudget": 16000000000
+},
+"funFacts": [
+"Istanbul adalah satu-satunya kota di dunia yang terletak di dua benua, Asia dan Eropa.",
+"Bunga tulip yang identik dengan Belanda sebenarnya berasal dari Turki.",
+"Memiliki salah satu pasar tertua dan terbesar di dunia, yaitu Grand Bazaar.",
+"Kopi Turki terkenal karena cara penyeduhannya yang unik menggunakan pasir panas.",
+"Turki merupakan produsen hazelnut terbesar di dunia, memasok sekitar 75% kebutuhan global."
+]
+},
+{
+"id": "NG",
+"name": "Nigeria",
+"officialName": "Federal Republic of Nigeria",
+"flag": "🇳🇬",
+"capital": "Abuja",
+"continent": "Africa",
+"population": 223800000,
+"area": 923768,
+"populationDensity": 242,
+"currency": "Nigerian Naira (NGN)",
+"language": "English",
+"timezone": "UTC+1",
+"callingCode": "+234",
+"internetDomain": ".ng",
+"economy": {
+"gdp": 390000000000,
+"gdpPerCapita": 1755,
+"exports": "Crude Petroleum, Petroleum Gas, Scrap Vessels",
+"imports": "Refined Petroleum, Wheat, Cars"
+},
+"health_education": {
+"hdi": 0.535,
+"lifeExpectancy": 53.8,
+"literacy": 62.0
+},
+"government": {
+"type": "Federal Presidential Republic",
+"president": "Bola Tinubu",
+"primeMinister": "-",
+"religion": "Islam (50%), Christianity (48%)"
+},
+"geography": {
+"largestCity": "Lagos",
+"highestMountain": "Chappal Waddi (2,419 m)",
+"longestRiver": "Niger River (4,180 km)",
+"climate": "Tropical",
+"averageTemp": 27.0
+},
+"technology": {
+"internetUsers": 122000000,
+"internetSpeed": 18.0,
+"mobileUsers": 210000000
+},
+"military": {
+"activePersonnel": 143000,
+"defenseBudget": 2900000000
+},
+"funFacts": [
+"Nigeria adalah negara dengan populasi terbanyak di benua Afrika.",
+"Industri filmnya, Nollywood, adalah produsen film terbesar kedua di dunia setelah Bollywood.",
+"Memiliki lebih dari 500 bahasa asli yang digunakan oleh berbagai kelompok etnis.",
+"Kupu-kupu dengan keragaman spesies terbesar di dunia dapat ditemukan di Nigeria bagian selatan.",
+"Lagos, salah satu kota terbesar di Afrika, awalnya merupakan kota pelabuhan kecil."
+]
+},
+{
+"id": "CH",
+"name": "Swiss",
+"officialName": "Swiss Confederation",
+"flag": "🇨🇭",
+"capital": "Bern",
+"continent": "Europe",
+"population": 8872700,
+"area": 41285,
+"populationDensity": 215,
+"currency": "Swiss Franc (CHF)",
+"language": "German, French, Italian, Romansh",
+"timezone": "UTC+1",
+"callingCode": "+41",
+"internetDomain": ".ch",
+"economy": {
+"gdp": 884000000000,
+"gdpPerCapita": 99650,
+"exports": "Gold, Packaged Medicaments, Vaccines",
+"imports": "Gold, Packaged Medicaments, Cars"
+},
+"health_education": {
+"hdi": 0.962,
+"lifeExpectancy": 84.0,
+"literacy": 99.0
+},
+"government": {
+"type": "Federal Semi-Direct Democracy",
+"president": "Viola Amherd",
+"primeMinister": "-",
+"religion": "Christianity (57%)"
+},
+"geography": {
+"largestCity": "Zürich",
+"highestMountain": "Dufourspitze (4,634 m)",
+"longestRiver": "Rhine (1,230 km)",
+"climate": "Temperate",
+"averageTemp": 7.5
+},
+"technology": {
+"internetUsers": 8300000,
+"internetSpeed": 180.0,
+"mobileUsers": 10800000
+},
+"military": {
+"activePersonnel": 24000,
+"defenseBudget": 5800000000
+},
+"funFacts": [
+"Swiss memiliki kebijakan netralitas bersenjata, tidak pernah terlibat dalam perang internasional sejak 1815.",
+"Memiliki lebih dari 1.500 danau; tidak ada lokasi di Swiss yang berjarak lebih dari 16 km dari danau.",
+"Bentuk bendera Swiss adalah persegi, bukan persegi panjang seperti bendera negara pada umumnya.",
+"Terkenal dengan industri jam tangannya yang sangat presisi dan berkualitas tinggi.",
+"Terdapat bungker anti-nuklir yang cukup untuk menampung seluruh populasi penduduknya."
+]
+},
+    {
+    "id": "US",
+    "name": "Amerika Serikat",
+    "officialName": "United States of America",
+    "flag": "🇺🇸",
+    "capital": "Washington, D.C.",
+    "continent": "North America",
+    "population": 339996563,
+    "area": 9833520,
+    "populationDensity": 36,
+    "currency": "United States Dollar (USD)",
+    "language": "English",
+    "timezone": "UTC-5 to UTC-10",
+    "callingCode": "+1",
+    "internetDomain": ".us",
+    "economy": {
+      "gdp": 26950000000000,
+      "gdpPerCapita": 80412,
+      "exports": "Refined Petroleum, Crude Petroleum, Natural Gas",
+      "imports": "Cars, Crude Petroleum, Computers"
+    },
+    "technology": {
+      "internetUsers": 311000000,
+      "internetSpeed": 210.5,
+      "mobileUsers": 360000000
+    },
+    "military": {
+      "activePersonnel": 1390000,
+      "defenseBudget": 816700000000
+    },
+    "funFacts": [
+      "Memiliki ekonomi terbesar di dunia berdasarkan PDB nominal.",
+      "Rumah bagi Hollywood, pusat industri hiburan dan perfilman dunia.",
+      "Negara pertama yang berhasil mendaratkan manusia di bulan pada tahun 1969."
+    ]
+  },
+  {
+    "id": "AU",
+    "name": "Australia",
+    "officialName": "Commonwealth of Australia",
+    "flag": "🇦🇺",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "population": 26439000,
+    "area": 7692024,
+    "populationDensity": 3,
+    "currency": "Australian Dollar (AUD)",
+    "language": "English",
+    "timezone": "UTC+8 to UTC+10.5",
+    "callingCode": "+61",
+    "internetDomain": ".au",
+    "economy": {
+      "gdp": 1687000000000,
+      "gdpPerCapita": 62600,
+      "exports": "Iron Ore, Coal, Natural Gas",
+      "imports": "Cars, Refined Petroleum, Broadcasting Equipment"
+    },
+    "technology": {
+      "internetUsers": 23600000,
+      "internetSpeed": 120.0,
+      "mobileUsers": 27000000
+    },
+    "military": {
+      "activePersonnel": 59000,
+      "defenseBudget": 32000000000
+    },
+    "funFacts": [
+      "Satu-satunya negara di dunia yang juga merangkap sebagai seluruh benua.",
+      "Memiliki Great Barrier Reef, sistem terumbu karang terbesar di dunia yang bisa dilihat dari luar angkasa.",
+      "Populasi kanguru di Australia lebih banyak daripada populasi manusianya."
+    ]
+  },
+{
+"id": "TH",
+"name": "Thailand",
+"officialName": "Ratcha-anachak Thai",
+"flag": "🇹🇭",
+"capital": "Bangkok",
+"continent": "Asia",
+"population": 71700000,
+"area": 513120,
+"populationDensity": 140,
+"currency": "Thai Baht (THB)",
+"language": "Thai",
+"timezone": "UTC+7",
+"callingCode": "+66",
+"internetDomain": ".th",
+"economy": {
+"gdp": 495000000000,
+"gdpPerCapita": 6909,
+"exports": "Office Machine Parts, Cars, Integrated Circuits",
+"imports": "Crude Petroleum, Integrated Circuits, Petroleum Gas"
+},
+"health_education": {
+"hdi": 0.800,
+"lifeExpectancy": 77.3,
+"literacy": 93.8
+},
+"government": {
+"type": "Unitary Parliamentary Constitutional Monarchy",
+"president": "King Maha Vajiralongkorn",
+"primeMinister": "Paetongtarn Shinawatra",
+"religion": "Buddhism (93.5%)"
+},
+"geography": {
+"largestCity": "Bangkok",
+"highestMountain": "Doi Inthanon (2,565 m)",
+"longestRiver": "Chao Phraya (372 km)",
+"climate": "Tropical",
+"averageTemp": 28.1
+},
+"technology": {
+"internetUsers": 61000000,
+"internetSpeed": 200.0,
+"mobileUsers": 97000000
+},
+"military": {
+"activePersonnel": 360000,
+"defenseBudget": 5700000000
+},
+"funFacts": [
+"Satu-satunya negara di Asia Tenggara yang tidak pernah dijajah oleh kekuatan Eropa.",
+"Nama asli kota Bangkok adalah nama kota dengan kata terpanjang di dunia.",
+"Dikenal sebagai 'Negeri Gajah Putih' karena gajah putih dianggap sangat suci.",
+"Minuman energi Red Bull pertama kali diciptakan di Thailand.",
+"Memiliki festival Songkran, perayaan tahun baru berupa festival air terbesar di dunia."
+]
+},
+{
+"id": "PH",
+"name": "Filipina",
+"officialName": "Republika ng Pilipinas",
+"flag": "🇵🇭",
+"capital": "Manila",
+"continent": "Asia",
+"population": 115559009,
+"area": 300000,
+"populationDensity": 385,
+"currency": "Philippine Peso (PHP)",
+"language": "Filipino, English",
+"timezone": "UTC+8",
+"callingCode": "+63",
+"internetDomain": ".ph",
+"economy": {
+"gdp": 404000000000,
+"gdpPerCapita": 3498,
+"exports": "Integrated Circuits, Office Machine Parts, Insulated Wire",
+"imports": "Integrated Circuits, Refined Petroleum, Cars"
+},
+"health_education": {
+"hdi": 0.699,
+"lifeExpectancy": 71.2,
+"literacy": 96.3
+},
+"government": {
+"type": "Unitary Presidential Republic",
+"president": "Bongbong Marcos",
+"primeMinister": "-",
+"religion": "Christianity (92%)"
+},
+"geography": {
+"largestCity": "Quezon City",
+"highestMountain": "Mount Apo (2,954 m)",
+"longestRiver": "Cagayan River (505 km)",
+"climate": "Tropical",
+"averageTemp": 26.6
+},
+"technology": {
+"internetUsers": 85000000,
+"internetSpeed": 90.0,
+"mobileUsers": 168000000
+},
+"military": {
+"activePersonnel": 143000,
+"defenseBudget": 4000000000
+},
+"funFacts": [
+"Terdiri dari lebih dari 7.600 pulau, menjadikannya salah satu negara kepulauan terbesar di dunia.",
+"Dikenal sebagai ibu kota SMS dunia karena tingginya volume pesan teks yang dikirim.",
+"Jeepney adalah moda transportasi umum ikonik yang dimodifikasi dari sisa jip militer AS setelah Perang Dunia II.",
+"Satu-satunya negara dengan mayoritas penduduk beragama Kristen di Asia selain Timor Leste.",
+"Sungai Bawah Tanah Puerto Princesa adalah salah satu sungai bawah tanah terpanjang dan terindah di dunia."
+]
+},
+{
+"id": "SG",
+"name": "Singapura",
+"officialName": "Republic of Singapore",
+"flag": "🇸🇬",
+"capital": "Singapore",
+"continent": "Asia",
+"population": 5917600,
+"area": 728,
+"populationDensity": 8132,
+"currency": "Singapore Dollar (SGD)",
+"language": "English, Malay, Mandarin, Tamil",
+"timezone": "UTC+8",
+"callingCode": "+65",
+"internetDomain": ".sg",
+"economy": {
+"gdp": 466700000000,
+"gdpPerCapita": 82807,
+"exports": "Integrated Circuits, Refined Petroleum, Gold",
+"imports": "Integrated Circuits, Refined Petroleum, Crude Petroleum"
+},
+"health_education": {
+"hdi": 0.939,
+"lifeExpectancy": 83.6,
+"literacy": 97.5
+},
+"government": {
+"type": "Unitary Parliamentary Republic",
+"president": "Tharman Shanmugaratnam",
+"primeMinister": "Lawrence Wong",
+"religion": "Buddhism (31.1%)"
+},
+"geography": {
+"largestCity": "Singapore",
+"highestMountain": "Bukit Timah (163 m)",
+"longestRiver": "Kallang River (10 km)",
+"climate": "Tropical",
+"averageTemp": 27.5
+},
+"technology": {
+"internetUsers": 5500000,
+"internetSpeed": 260.0,
+"mobileUsers": 8700000
+},
+"military": {
+"activePersonnel": 71000,
+"defenseBudget": 11000000000
+},
+"funFacts": [
+"Merupakan salah satu dari tiga negara kota yang berdaulat di dunia secara penuh.",
+"Bandara Changi sering dinobatkan sebagai bandara terbaik di dunia selama berturut-turut.",
+"Memiliki larangan yang sangat ketat terhadap impor, penjualan, dan konsumsi permen karet.",
+"Night Safari di Singapura adalah kebun binatang nokturnal pertama di dunia.",
+"Air terjun buatan dalam ruangan tertinggi di dunia terletak di Jewel Changi Airport."
+     ]
+  }
+]
