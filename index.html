@@ -4,84 +4,132 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>XAERISOFT | Country Compare</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    <!-- Premium Fonts: Plus Jakarta Sans for UI, Space Grotesk for Data/Numbers -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for Modern Outlined Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Universe Background -->
+    <!-- 🌌 Dynamic Universe Background -->
     <div class="universe-bg">
         <div class="stars"></div>
-        <div class="aurora"></div>
+        <div class="twinkling-stars"></div>
+        <div class="aurora-blob blob-1"></div>
+        <div class="aurora-blob blob-2"></div>
+        <div class="aurora-blob blob-3"></div>
+        <div class="grid-overlay"></div>
     </div>
 
-    <!-- Navigation & History/Fav -->
+    <!-- 🌟 Premium Transparent Navbar -->
     <nav class="glass-nav">
-        <div class="logo">🌍 XAERISOFT</div>
+        <div class="logo">
+            <i class="ph-fill ph-planet"></i>
+            <span class="logo-text">XAERISOFT</span>
+        </div>
         <div class="nav-actions">
-            <button id="btn-history">⏳ History</button>
-            <button id="btn-favorite">⭐ Favorites</button>
+            <button id="btn-history" class="nav-btn">
+                <i class="ph ph-clock-counter-clockwise"></i> <span>History</span>
+            </button>
+            <button id="btn-favorite" class="nav-btn">
+                <i class="ph ph-star"></i> <span>Favorit</span>
+            </button>
         </div>
     </nav>
 
     <main class="container">
-        <!-- Hero & Search Section -->
+        <!-- 🚀 Hero & Search Section -->
         <section class="hero-section" id="hero-section">
-            <div class="globe-anim">🌐</div>
-            <h1 class="glow-text">COUNTRY COMPARE</h1>
-            <p>Bandingkan data negara mana pun secara instan dan komprehensif.</p>
+            <div class="badge-pill pulse-glow">
+                <i class="ph-fill ph-sparkle"></i> Data Base Negara lengkap
+            </div>
+            <h1 class="hero-title">Compare The <span class="gradient-text">World.</span></h1>
+            <p class="hero-subtitle">Menganalisis perbandingan antara 2 negara</p>
             
             <div class="search-container">
-                <div class="search-box glass-card">
-                    <label>Country A</label>
-                    <input type="text" id="search-a" placeholder="Type country (e.g. Indonesia)" autocomplete="off">
+                <div class="search-box glass-card interactive-card">
+                    <label><i class="ph ph-flag"></i> Banding negara 1</label>
+                    <div class="input-wrapper">
+                        <i class="ph ph-magnifying-glass search-icon"></i>
+                        <input type="text" id="search-a" placeholder="E.g. " autocomplete="off">
+                    </div>
                     <div class="suggestion-list" id="sug-a"></div>
-                    <div class="selected-badge" id="sel-a"></div>
                 </div>
                 
-                <div class="vs-badge glow-text">VS</div>
+                <div class="vs-badge">
+                    <div class="vs-ring">VS</div>
+                </div>
                 
-                <div class="search-box glass-card">
-                    <label>Country B</label>
-                    <input type="text" id="search-b" placeholder="Type country (e.g. Japan)" autocomplete="off">
+                <div class="search-box glass-card interactive-card">
+                    <label><i class="ph ph-flag"></i> Banding Negara 2</label>
+                    <div class="input-wrapper">
+                        <i class="ph ph-magnifying-glass search-icon"></i>
+                        <input type="text" id="search-b" placeholder="E.g. " autocomplete="off">
+                    </div>
                     <div class="suggestion-list" id="sug-b"></div>
-                    <div class="selected-badge" id="sel-b"></div>
                 </div>
             </div>
 
             <div class="action-buttons">
-                <button class="btn-primary neon-btn" id="btn-compare">COMPARE NOW</button>
-                <button class="btn-secondary glass-btn" id="btn-random">Random Compare</button>
+                <button class="btn-primary" id="btn-compare">
+                    <i class="ph ph-chart-line-up"></i> Analyze Data
+                </button>
+                <button class="btn-secondary" id="btn-random">
+                    <i class="ph ph-shuffle"></i> Random
+                </button>
             </div>
         </section>
 
-        <!-- Loading Skeleton -->
-        <div id="loading" class="hidden">
-            <div class="loader-spinner"></div>
-            <p>Analyzing Data...</p>
+        <!-- ⏳ High-Tech Loading Skeleton -->
+        <div id="loading" class="hidden loading-container">
+            <div class="ai-scanner">
+                <div class="scanner-line"></div>
+            </div>
+            <div class="loader-pulse"></div>
+            <p class="gradient-text">Synthesizing Global Metrics...</p>
         </div>
 
-        <!-- Comparison Result Section -->
-        <section id="result-section" class="hidden">
+        <!-- 📊 Dashboard Result Section -->
+        <section id="result-section" class="hidden dashboard-section">
             
+            <!-- Quick Actions Toolbar -->
             <div class="actions-bar glass-card">
-                <button onclick="window.print()">🖨️ Print / Export PDF</button>
-                <button id="btn-share">🔗 Share</button>
-                <button id="btn-fav-current">⭐ Add to Favorite</button>
-                <button id="btn-reset">🔙 Back to Search</button>
+                <div class="action-group">
+                    <button class="icon-btn tooltip" onclick="window.print()" data-title="Export PDF">
+                        <i class="ph ph-printer"></i>
+                    </button>
+                    <button id="btn-share" class="icon-btn tooltip" data-title="Share Result">
+                        <i class="ph ph-share-network"></i>
+                    </button>
+                    <button id="btn-fav-current" class="icon-btn tooltip" data-title="Add to Favorites">
+                        <i class="ph ph-star"></i>
+                    </button>
+                </div>
+                <button id="btn-reset" class="btn-secondary small-btn">
+                    <i class="ph ph-arrow-left"></i> New Compare
+                </button>
             </div>
 
-            <!-- Auto Summary -->
-            <div class="summary-card glass-card">
-                <h3>🤖 AI Insight Summary</h3>
-                <p id="auto-summary"></p>
-                <h4 class="overall-winner glow-text" id="overall-winner"></h4>
+            <!-- 🤖 AI Insight Premium Card -->
+            <div class="summary-card glass-card animated-border">
+                <div class="ai-header">
+                    <div class="ai-icon-box pulse-glow">
+                        <i class="ph-fill ph-robot"></i>
+                    </div>
+                    <h3>AI Insight Analysis</h3>
+                </div>
+                <p id="auto-summary" class="ai-text"></p>
+                <div class="winner-reveal">
+                    <h4 id="overall-winner" class="overall-winner"></h4>
+                </div>
             </div>
 
+            <!-- 📈 The Comparison Grid (Data Injected via JS) -->
             <div id="comparison-grid" class="comparison-grid">
                 <!-- Data will be injected here via JS -->
             </div>
 
-            <!-- Fun Facts -->
+            <!-- 💡 Fun Facts Cards -->
             <div class="fun-facts-container">
                 <div class="fun-fact-card glass-card" id="fun-fact-a"></div>
                 <div class="fun-fact-card glass-card" id="fun-fact-b"></div>
