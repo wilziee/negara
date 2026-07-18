@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XAERISOFT | Country Compare</title>
+    <title>XAERISOFT | Universe Country Compare</title>
     <!-- Premium Fonts: Plus Jakarta Sans for UI, Space Grotesk for Data/Numbers -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
     <!-- Phosphor Icons for Modern Outlined Icons -->
@@ -27,28 +27,21 @@
             <i class="ph-fill ph-planet"></i>
             <span class="logo-text">XAERISOFT</span>
         </div>
-        <div class="nav-actions">
-            <button id="btn-history" class="nav-btn">
-                <i class="ph ph-clock-counter-clockwise"></i> <span>History</span>
-            </button>
-            <button id="btn-favorite" class="nav-btn">
-                <i class="ph ph-star"></i> <span>Favorit</span>
-            </button>
-        </div>
+        <!-- Bagian nav-actions (History & Favorites) telah dihapus -->
     </nav>
 
     <main class="container">
         <!-- 🚀 Hero & Search Section -->
         <section class="hero-section" id="hero-section">
             <div class="badge-pill pulse-glow">
-                <i class="ph-fill ph-sparkle"></i> Data Base Negara lengkap
+                <i class="ph-fill ph-sparkle"></i> Data 1.0
             </div>
-            <h1 class="hero-title">Compare The <span class="gradient-text">World.</span></h1>
-            <p class="hero-subtitle">Menganalisis perbandingan antara 2 negara</p>
+            <h1 class="hero-title">Country <span class="gradient-text">Compare</span></h1>
+            <p class="hero-subtitle">Menganalisis metrik negara secara real-time dengan presisi dashboard</p>
             
             <div class="search-container">
                 <div class="search-box glass-card interactive-card">
-                    <label><i class="ph ph-flag"></i> Banding negara 1</label>
+                    <label><i class="ph ph-flag"></i> Perbandingan Negara 1</label>
                     <div class="input-wrapper">
                         <i class="ph ph-magnifying-glass search-icon"></i>
                         <input type="text" id="search-a" placeholder="E.g. " autocomplete="off">
@@ -61,7 +54,7 @@
                 </div>
                 
                 <div class="search-box glass-card interactive-card">
-                    <label><i class="ph ph-flag"></i> Banding Negara 2</label>
+                    <label><i class="ph ph-flag"></i> Perbandingan Negara 2</label>
                     <div class="input-wrapper">
                         <i class="ph ph-magnifying-glass search-icon"></i>
                         <input type="text" id="search-b" placeholder="E.g. " autocomplete="off">
@@ -72,10 +65,10 @@
 
             <div class="action-buttons">
                 <button class="btn-primary" id="btn-compare">
-                    <i class="ph ph-chart-line-up"></i> Analyze Data
+                    <i class="ph ph-chart-line-up"></i> Analisis Data
                 </button>
                 <button class="btn-secondary" id="btn-random">
-                    <i class="ph ph-shuffle"></i> Random
+                    <i class="ph ph-shuffle"></i> Acak Perbandingan
                 </button>
             </div>
         </section>
@@ -86,7 +79,7 @@
                 <div class="scanner-line"></div>
             </div>
             <div class="loader-pulse"></div>
-            <p class="gradient-text">Synthesizing Global Metrics...</p>
+            <p class="gradient-text">Mesintesis Metrik Global...</p>
         </div>
 
         <!-- 📊 Dashboard Result Section -->
@@ -101,12 +94,10 @@
                     <button id="btn-share" class="icon-btn tooltip" data-title="Share Result">
                         <i class="ph ph-share-network"></i>
                     </button>
-                    <button id="btn-fav-current" class="icon-btn tooltip" data-title="Add to Favorites">
-                        <i class="ph ph-star"></i>
-                    </button>
+                    <!-- Tombol Add to Favorites telah dihapus -->
                 </div>
                 <button id="btn-reset" class="btn-secondary small-btn">
-                    <i class="ph ph-arrow-left"></i> New Compare
+                    <i class="ph ph-arrow-left"></i> Buat Perbandingan Baru
                 </button>
             </div>
 
@@ -116,7 +107,7 @@
                     <div class="ai-icon-box pulse-glow">
                         <i class="ph-fill ph-robot"></i>
                     </div>
-                    <h3>AI Insight Analysis</h3>
+                    <h3>Hasil Analisa AI</h3>
                 </div>
                 <p id="auto-summary" class="ai-text"></p>
                 <div class="winner-reveal">
@@ -137,6 +128,10 @@
 
         </section>
     </main>
+   <!-- 👨‍💻 Footer Copyright -->
+    <footer style="text-align: center; padding: 2rem; margin-top: 2rem; color: var(--text-muted); font-size: 0.95rem; z-index: 10; position: relative;">
+        <p>&copy; 2026 xaerisoft Created by <span class="gradient-text" style="font-weight: 800; letter-spacing: 1px;">Wilxd</span>.</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
